@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "e4369d44-55bd-49cd-814b-ace394a1fe48",
+    "Amount": 600,
+    "Note": "reggeli bosch",
+    "Budget": "Living",
+    "Date": "2026-04-10T19:37:30.9097878+02:00"
+  },
+  {
+    "Id": "2a525089-dbae-44ed-824c-d6ad8e16bc4a",
+    "Amount": 1655,
+    "Note": "eb\u00E9d bosch",
+    "Budget": "Living",
+    "Date": "2026-04-10T19:37:58.6666526+02:00"
+  },
+  {
+    "Id": "20aad8d7-ac33-439f-9961-69ebaacebbc6",
+    "Amount": 680,
+    "Note": "Monster",
+    "Budget": "Fun",
+    "Date": "2026-04-10T19:51:03.2627519+02:00"
+  },
+  {
+    "Id": "93f5ef02-7333-4b7a-b234-38eec1eeb9af",
+    "Amount": 649,
+    "Note": "R\u00E1g\u00F3",
+    "Budget": "Fun",
+    "Date": "2026-04-10T19:52:08.5796561+02:00"
+  }
+]
