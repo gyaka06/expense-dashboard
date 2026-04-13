@@ -77,9 +77,9 @@ Promise.all
     );
 
     if (currentBudget) {
-        const savingsRemaining = currentBudget.Savings - (categories["Savings"] || 0);
-        const funRemaining = currentBudget.Fun - (categories["Fun"] || 0);
-        const livingRemaining = currentBudget.Living - (categories["Living"] || 0);
+        const savingsRemaining = currentBudget.SavingsBudget - (categories["Savings"] || 0);
+        const funRemaining = currentBudget.FunBudget - (categories["Fun"] || 0);
+        const livingRemaining = currentBudget.LivingBudget - (categories["Living"] || 0);
 
         document.getElementById("savings").innerText = savingsRemaining;
         document.getElementById("fun").innerText = funRemaining;
