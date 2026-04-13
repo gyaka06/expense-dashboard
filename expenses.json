@@ -26,5 +26,26 @@
     "Note": "R\u00E1g\u00F3",
     "Budget": "Fun",
     "Date": "2026-04-10T19:52:08.5796561+02:00"
+  },
+  {
+    "Id": "b9001e7e-2aae-49e3-b206-1fa853fb0616",
+    "Amount": 3400,
+    "Note": "2Gyros",
+    "Budget": "Fun",
+    "Date": "2026-04-13T18:46:54.8672164+02:00"
+  },
+  {
+    "Id": "ac1214e9-e885-4436-be0f-adadafd4a27e",
+    "Amount": 5516,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-04-13T18:47:31.5290456+02:00"
+  },
+  {
+    "Id": "4e7c595d-fbba-4688-89f7-50973116fd0b",
+    "Amount": 120000,
+    "Note": "lakb\u00E9r",
+    "Budget": "Living",
+    "Date": "2026-04-13T18:47:48.4361143+02:00"
   }
 ]
