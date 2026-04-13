@@ -44,6 +44,10 @@
 const expensesUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/expenses.json";
 const budgetsUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/monthlyBudgets.json";
 
+function formatNumber(num) {
+    return new Intl.NumberFormat('hu-HU').format(num);
+}
+
 Promise.all
 ([
     fetch(expensesUrl).then(res => res.json()),
@@ -65,7 +69,7 @@ Promise.all
         categories[e.Budget] += e.Amount;
     });
 
-    document.getElementById("total").innerText = total;
+    document.getElementById("total").innerText = formatNumber(total);
 
     // 👉 aktuális hónap
     const now = new Date();
@@ -81,9 +85,9 @@ Promise.all
         const funRemaining = currentBudget.FunBudget - (categories["Fun"] || 0);
         const livingRemaining = currentBudget.LivingBudget - (categories["Living"] || 0);
 
-        document.getElementById("savings").innerText = savingsRemaining;
-        document.getElementById("fun").innerText = funRemaining;
-        document.getElementById("living").innerText = livingRemaining;
+        document.getElementById("savings").innerText = formatNumber(savingsRemaining);
+        document.getElementById("fun").innerText = formatNumber(funRemaining);
+        document.getElementById("living").innerText = formatNumber(livingRemaining);
     }
 
     // chart marad
