@@ -41,38 +41,63 @@
 
 <script>
 const expensesUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/expenses.json";
+const budgetUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/monthlyBudgets.json";
 
-fetch(expensesUrl)
-    .then(res => res.json())
-    .then(data => {
+Promise.all
+([
+    fetch(expensesUrl).then(res => res.json()),
+    fetch(budgetsUrl).then(res => res.json())
+])
+.then(([expenses, budgets]) => 
+{
+    let total = 0;
+    let categories = {};
 
-        let total = 0;
-        let categories = {};
+    expenses.forEach(e => 
+    {
+        total += e.Amount;
 
-        data.forEach(e => {
-            total += e.Amount;
+        if (!categories[e.Budget]) {
+            categories[e.Budget] = 0;
+        }
 
-            if (!categories[e.Budget]) {
-                categories[e.Budget] = 0;
-            }
-
-            categories[e.Budget] += e.Amount;
-        });
-
-        document.getElementById("total").innerText = total;
-
-        const ctx = document.getElementById('chart');
-
-        new Chart(ctx, {
-            type: 'pie',
-            data: {
-                labels: Object.keys(categories),
-                datasets: [{
-                    data: Object.values(categories)
-                }]
-            }
-        });
+        categories[e.Budget] += e.Amount;
     });
+
+    document.getElementById("total").innerText = total;
+
+    // 👉 aktuális hónap
+    const now = new Date();
+    const currentMonth = now.getMonth() + 1;
+    const currentYear = now.getFullYear();
+
+    const currentBudget = budgets.find(b =>
+        b.Month === currentMonth && b.Year === currentYear
+    );
+
+    if (currentBudget) {
+        const savingsRemaining = currentBudget.Savings - (categories["Savings"] || 0);
+        const funRemaining = currentBudget.Fun - (categories["Fun"] || 0);
+        const livingRemaining = currentBudget.Living - (categories["Living"] || 0);
+
+        document.getElementById("savings").innerText = savingsRemaining;
+        document.getElementById("fun").innerText = funRemaining;
+        document.getElementById("living").innerText = livingRemaining;
+    }
+
+    // chart marad
+    const ctx = document.getElementById('chart');
+
+    new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: Object.keys(categories),
+            datasets: [{
+                data: Object.values(categories)
+            }]
+        }
+    });
+});
 </script>
 
 </body>
