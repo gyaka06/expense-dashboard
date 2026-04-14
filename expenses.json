@@ -47,5 +47,33 @@
     "Note": "lakb\u00E9r",
     "Budget": "Living",
     "Date": "2026-04-13T18:47:48.4361143+02:00"
+  },
+  {
+    "Id": "8868e01d-f557-445e-b691-f4fd3e8cdca2",
+    "Amount": 550,
+    "Note": "keny\u00E9r",
+    "Budget": "Living",
+    "Date": "2026-04-14T15:54:29.1881963+02:00"
+  },
+  {
+    "Id": "a195f0e7-cb86-4ca2-8c6b-88a2b00b4991",
+    "Amount": 2890,
+    "Note": "netflix",
+    "Budget": "Fun",
+    "Date": "2026-04-14T15:54:42.3692292+02:00"
+  },
+  {
+    "Id": "59f66a21-aa6e-4804-a571-fd574a184eb5",
+    "Amount": 1055,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-04-14T15:54:54.5454307+02:00"
+  },
+  {
+    "Id": "2d078565-ce01-4655-808d-b9947e486fa6",
+    "Amount": 1324,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-14T15:55:10.9333152+02:00"
   }
 ]
