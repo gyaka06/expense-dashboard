@@ -75,5 +75,33 @@
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
     "Date": "2026-04-14T15:55:10.9333152+02:00"
+  },
+  {
+    "Id": "68218599-c3a9-42e9-8688-95c6532acaa4",
+    "Amount": 1135,
+    "Note": "fornetti ",
+    "Budget": "Living",
+    "Date": "2026-04-15T13:54:37.5557794+02:00"
+  },
+  {
+    "Id": "c6cf63bb-7401-4e2e-baf2-54b6cdcd224a",
+    "Amount": 31175,
+    "Note": "Niki aji",
+    "Budget": "Fun",
+    "Date": "2026-04-15T13:55:03.375034+02:00"
+  },
+  {
+    "Id": "a8c94d6d-3677-47cf-896c-65ee2ce1aa92",
+    "Amount": 8000,
+    "Note": "fodr\u00E1sz",
+    "Budget": "Fun",
+    "Date": "2026-04-15T13:55:17.1107386+02:00"
+  },
+  {
+    "Id": "67033654-775e-4620-937c-013410ee0da0",
+    "Amount": 200000,
+    "Note": "ciprus",
+    "Budget": "Savings",
+    "Date": "2026-04-15T13:55:38.7779553+02:00"
   }
 ]
