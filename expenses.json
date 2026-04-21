@@ -103,5 +103,145 @@
     "Note": "ciprus",
     "Budget": "Savings",
     "Date": "2026-04-15T13:55:38.7779553+02:00"
+  },
+  {
+    "Id": "3dfa65e8-ddfc-496e-ac58-792559c90706",
+    "Amount": 952,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-04-16T11:23:25.4875147+02:00"
+  },
+  {
+    "Id": "d1d0bafa-0eaa-4de5-a24c-4bf8ca8b2d37",
+    "Amount": 813,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-21T08:54:08.7681389+02:00"
+  },
+  {
+    "Id": "5cafc335-6bf8-42ce-ac16-89edb0acf918",
+    "Amount": 6190,
+    "Note": "yt premium",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:54:22.243458+02:00"
+  },
+  {
+    "Id": "78397809-0315-4103-8a47-5b752f18e81d",
+    "Amount": 4073,
+    "Note": "Aldi",
+    "Budget": "Living",
+    "Date": "2026-04-21T08:54:37.506075+02:00"
+  },
+  {
+    "Id": "a60e3a45-ba0c-4672-8a56-72c0b706a494",
+    "Amount": 6290,
+    "Note": "gaty\u00E1k",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:54:50.2186892+02:00"
+  },
+  {
+    "Id": "33be2f67-284f-4e74-8fca-b0fbd7860639",
+    "Amount": 1688,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:00.9359804+02:00"
+  },
+  {
+    "Id": "5eb7143c-717b-4521-85bb-4173fc68762d",
+    "Amount": 1688,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:09.3069854+02:00"
+  },
+  {
+    "Id": "bd21b2c3-3274-494b-882c-677a41e459fc",
+    "Amount": 1900,
+    "Note": "dohi",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:17.1524464+02:00"
+  },
+  {
+    "Id": "a6172946-7b97-4e01-afec-7023dc86d2ec",
+    "Amount": 1688,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:25.0276652+02:00"
+  },
+  {
+    "Id": "65d51a31-2f4a-4c8c-91c3-b2d05d3ca124",
+    "Amount": 1688,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:33.9756927+02:00"
+  },
+  {
+    "Id": "26f8e5fa-b541-408c-890a-73c00638271f",
+    "Amount": 1485,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:55:51.1051634+02:00"
+  },
+  {
+    "Id": "49875ccc-f3c6-403c-a681-624836f7c9d0",
+    "Amount": 2978,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:00.3833724+02:00"
+  },
+  {
+    "Id": "b03779fc-cab2-458a-8692-d7277cab1241",
+    "Amount": 1688,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:09.2944261+02:00"
+  },
+  {
+    "Id": "7a965237-81b8-4ea4-95ab-a4fd6779d80f",
+    "Amount": 1613,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:16.9975382+02:00"
+  },
+  {
+    "Id": "f7f3162a-0cb3-407a-b710-ad7d9aaf7998",
+    "Amount": 2150,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:24.9696656+02:00"
+  },
+  {
+    "Id": "0f396a91-e957-4f96-b9df-90c35fb74b74",
+    "Amount": 1485,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:34.5313851+02:00"
+  },
+  {
+    "Id": "1341e4f5-60f3-4a50-b1c5-63cf9c817bc3",
+    "Amount": 4600,
+    "Note": "taxi",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:56:42.5507476+02:00"
+  },
+  {
+    "Id": "058a7e5a-a5fc-421b-b5db-b1aaef67ebba",
+    "Amount": 6698,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-04-21T08:56:55.1965842+02:00"
+  },
+  {
+    "Id": "69d2ced9-68b2-43c7-86b5-d202bef50c41",
+    "Amount": 4190,
+    "Note": "premier leak",
+    "Budget": "Fun",
+    "Date": "2026-04-21T08:57:03.1687586+02:00"
+  },
+  {
+    "Id": "aeac0198-53da-41e9-9a34-2fc4e526366d",
+    "Amount": 904,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-04-21T08:57:14.5015222+02:00"
   }
 ]
