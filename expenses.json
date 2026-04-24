@@ -243,5 +243,61 @@
     "Note": "bosch reggeli",
     "Budget": "Living",
     "Date": "2026-04-21T08:57:14.5015222+02:00"
+  },
+  {
+    "Id": "12e78e2b-03d2-4ad6-bb6b-25b2ba6861e5",
+    "Amount": 1348,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-24T08:59:27.8644218+02:00"
+  },
+  {
+    "Id": "d59a8f62-44ad-49ba-bff5-a2841f986702",
+    "Amount": 410,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-04-24T08:59:40.9903678+02:00"
+  },
+  {
+    "Id": "858405f6-8f33-429a-9387-09337e515092",
+    "Amount": 800,
+    "Note": "foci \u00FCd\u00EDt\u0151",
+    "Budget": "Fun",
+    "Date": "2026-04-24T08:59:52.9197178+02:00"
+  },
+  {
+    "Id": "6d66f85b-8eac-4a9d-9de3-0d6dc7c919b9",
+    "Amount": 5630,
+    "Note": "telo sz\u00E1mla",
+    "Budget": "Fun",
+    "Date": "2026-04-24T09:00:07.3667725+02:00"
+  },
+  {
+    "Id": "180dfd34-4352-4cb7-ae5e-2008a108c417",
+    "Amount": 925,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-04-24T09:00:32.9385133+02:00"
+  },
+  {
+    "Id": "8ca5f8ca-148a-485a-9b7c-86fbb0e07c4f",
+    "Amount": 1611,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-24T09:00:43.1216587+02:00"
+  },
+  {
+    "Id": "ed5e6b1d-baa6-41e5-a6ab-be5aeebddab3",
+    "Amount": 330,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-04-24T09:01:09.1690193+02:00"
+  },
+  {
+    "Id": "552fd0a4-cec2-4f0b-8ec8-e05b2b9a6d23",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-04-24T09:01:23.4890393+02:00"
   }
 ]
