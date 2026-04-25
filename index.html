@@ -105,24 +105,25 @@ Promise.all
     const ctx = document.getElementById('chart');
 
     new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: Object.keys(categories),
-            datasets: [{
-                data: Object.values(categories)
-            }]
-        },
-        options: {
+    type: 'pie',
+    data: {
+        labels: Object.keys(categories),
+        datasets: [{
+            data: Object.values(categories)
+        }]
+    },
+    options: {
         plugins: {
             legend: {
                 labels: {
                     font: {
-                        weight: 'bold' // 👈 EZ
+                        weight: 'bold'
                     }
                 }
             }
         }
-    }});
+    }
+    });
 });
 </script>
 
