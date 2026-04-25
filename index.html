@@ -111,8 +111,18 @@ Promise.all
             datasets: [{
                 data: Object.values(categories)
             }]
+        },
+        options: {
+        plugins: {
+            legend: {
+                labels: {
+                    font: {
+                        weight: 'bold' // 👈 EZ
+                    }
+                }
+            }
         }
-    });
+    }});
 });
 </script>
 
