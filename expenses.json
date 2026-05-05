@@ -299,5 +299,152 @@
     "Note": "apple cloud",
     "Budget": "Fun",
     "Date": "2026-04-24T09:01:23.4890393+02:00"
+  },
+  {
+    "Id": "e741ee06-29fa-4201-8850-90f4c33c2974",
+    "Amount": 20470,
+    "Note": "tankol\u00E1s",
+    "Budget": "Fun",
+    "Date": "2026-04-25T22:01:13.0004297+02:00"
+  },
+  {
+    "Id": "e2ad74ed-fc24-494c-8f35-0618f96804b8",
+    "Amount": 400,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-04-25T22:01:39.3943002+02:00"
+  },
+  {
+    "Id": "a0831fcb-5f97-4b96-894b-9960de5daf84",
+    "Amount": 19353,
+    "Note": "auchan",
+    "Budget": "Living",
+    "Date": "2026-04-25T22:01:52.1801258+02:00"
+  },
+  {
+    "Id": "35cabc52-f160-447c-8a38-d934b820cf5a",
+    "Amount": 12390,
+    "Note": "szitak\u00F6t\u0151",
+    "Budget": "Fun",
+    "Date": "2026-04-25T22:02:06.8568696+02:00"
+  },
+  {
+    "Id": "533ebcd4-28ed-4132-a580-042377d92078",
+    "Amount": 1990,
+    "Note": "WHSmith",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "cecd87d9-c15a-456b-96ca-cdcb54141dfa",
+    "Amount": 2600,
+    "Note": "szlad\u00EDj",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "53ee2b5b-505e-4dba-9e7a-438d00ef82ef",
+    "Amount": 1476,
+    "Note": "mike kiosk",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "27d31da4-7415-44a0-a75b-ee342a4c1519",
+    "Amount": 553,
+    "Note": "mike kiosk",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "95c36c59-8ccb-44e6-80b2-71e8c694f215",
+    "Amount": 501,
+    "Note": "king evelton hotel",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "0b19a585-12d0-4d2c-8dac-bba4a76312eb",
+    "Amount": 1300,
+    "Note": "mike kiosk",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "11fc6ea0-7418-44e5-b3f7-9ec3bea6f7e8",
+    "Amount": 1560,
+    "Note": "mike kiosk",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "3bdaa14a-ff4c-4f6c-972c-0fbcbec5f2bc",
+    "Amount": 966,
+    "Note": "\u00E1llatkert",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "f67d3552-e85b-4a58-857c-33bcb79b100d",
+    "Amount": 1671,
+    "Note": "1671 king evelthon hotel",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "7c9dc081-3c3c-4264-83aa-9b00c2fae695",
+    "Amount": 449,
+    "Note": "havi csomagd\u00EDj",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "f2f085dc-38ee-414f-b7c0-01f809715fcb",
+    "Amount": 165,
+    "Note": "id\u0151szakos k\u00F6lts\u00E9gek",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "88674b2a-a4dd-43c0-a64d-56b619c194f8",
+    "Amount": 1671,
+    "Note": "king evelton hotel",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "d1ea7ebf-b901-4398-8a77-8b0a197cfa0b",
+    "Amount": 1980,
+    "Note": "king evelton hotel",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "8d76b923-ba40-4b10-b1ec-d47b0d216433",
+    "Amount": 1290,
+    "Note": "apple",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "b4717c9e-aca5-4b91-9351-1e06cfc71ee9",
+    "Amount": 5571,
+    "Note": "gyros",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "0fb2ee54-9b6b-4aac-a1bf-0022ff7a0f27",
+    "Amount": 557,
+    "Note": "souvenir",
+    "Budget": "Fun",
+    "Date": "2026-04-26T13:07:58.088"
+  },
+  {
+    "Id": "72d8cab7-8a49-418a-aa85-bac2d9bd4ab1",
+    "Amount": 45600,
+    "Note": "Vir\u00E1g \u002B Zim\u00F3 sz\u00FClinap",
+    "Budget": "Fun",
+    "Date": "2026-04-30T08:17:40.382"
   }
 ]
