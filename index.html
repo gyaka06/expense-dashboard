@@ -41,6 +41,10 @@
 
 <h1>(S)expense Dashboard</h1>
 
+<select id="yearSelect"></select>
+<select id="monthSelect"></select>
+<button onclick="applyFilter()">Apply</button>
+
 <div class="card">
     <h3>Total Spent</h3>
     <p class="total-value" id="total"></p>
@@ -52,6 +56,26 @@
 </div>
 
 <script>
+let expenses = [];
+let budgets = [];
+let chart = null;
+
+const yearSelect = document.getElementById("yearSelect");
+const monthSelect = document.getElementById("monthSelect");
+
+for (let i = 1; i <= 12; i++) {
+    let option = document.createElement("option");
+    option.value = i;
+    option.text = i;
+    monthSelect.appendChild(option);
+}
+for (let y = 2025; y <= 2027; y++) {
+    let option = document.createElement("option");
+    option.value = y;
+    option.text = y;
+    yearSelect.appendChild(option);
+}
+
 const expensesUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/expenses.json";
 const budgetsUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/monthlyBudgets.json";
 
@@ -64,13 +88,29 @@ Promise.all
     fetch(expensesUrl).then(res => res.json()),
     fetch(budgetsUrl).then(res => res.json())
 ])
-.then(([expenses, budgets]) => 
+.then(([exp, bud]) => 
 {
-    let total = 0;
-    let categories = {};
+    expenses = exp;
+    budgets = bud;
 
-    expenses.forEach(e => 
-    {
+    const now = new Date();
+
+    yearSelect.value = now.getFullYear();
+    monthSelect.value = now.getMonth() + 1;
+    
+    updateDashboard(now.getFullYear(), now.getMonth() + 1);
+});
+
+function updateDashboard(year, month) {
+
+let total = 0;
+let categories = {};
+
+expenses.forEach(e => {
+    const d = new Date(e.Date);
+
+    if (d.getFullYear() === year && d.getMonth() + 1 === month) {
+
         total += e.Amount;
 
         if (!categories[e.Budget]) {
@@ -78,58 +118,55 @@ Promise.all
         }
 
         categories[e.Budget] += e.Amount;
-    });
-
-    document.getElementById("total").innerText = formatNumber(total);
-
-    // 👉 aktuális hónap
-    const now = new Date();
-    const currentMonth = now.getMonth() + 1;
-    const currentYear = now.getFullYear();
-
-    const currentBudget = budgets.find(b =>
-        b.Month === currentMonth && b.Year === currentYear
-    );
-
-    if (currentBudget) {
-        const savingsRemaining = currentBudget.SavingsBudget - (categories["Savings"] || 0);
-        const funRemaining = currentBudget.FunBudget - (categories["Fun"] || 0);
-        const livingRemaining = currentBudget.LivingBudget - (categories["Living"] || 0);
-
-        document.getElementById("savings").innerText = formatNumber(savingsRemaining);
-        document.getElementById("fun").innerText = formatNumber(funRemaining);
-        document.getElementById("living").innerText = formatNumber(livingRemaining);
     }
+});
 
-    // chart marad
-    const ctx = document.getElementById('chart');
+document.getElementById("total").innerText = formatNumber(total);
 
-    new Chart(ctx, {
+const currentBudget = budgets.find(b =>
+    b.Month === month && b.Year === year
+);
+
+if (currentBudget) {
+    document.getElementById("savings").innerText =
+        formatNumber(currentBudget.SavingsBudget - (categories["Savings"] || 0));
+
+    document.getElementById("fun").innerText =
+        formatNumber(currentBudget.FunBudget - (categories["Fun"] || 0));
+
+    document.getElementById("living").innerText =
+        formatNumber(currentBudget.LivingBudget - (categories["Living"] || 0));
+}
+else {
+    document.getElementById("savings").innerText = "-";
+    document.getElementById("fun").innerText = "-";
+    document.getElementById("living").innerText = "-";
+}
+
+// chart újrarajzolás
+const ctx = document.getElementById('chart');
+
+if (chart) {
+    chart.destroy(); // 👈 fontos
+}
+
+chart = new Chart(ctx, {
     type: 'pie',
     data: {
         labels: Object.keys(categories),
         datasets: [{
             data: Object.values(categories)
         }]
-    },
-    options: {
-        plugins: {
-            legend: {
-                labels: {
-                    font: {
-                        weight: 'bold'
-                    }
-                }
-            },
-            tooltip: {
-                titleFont: {
-                    weight: 'bold'
-                }
-            }
-        }
     }
-    });
 });
+}
+
+function applyFilter() {
+    const year = parseInt(document.getElementById("yearSelect").value);
+    const month = parseInt(document.getElementById("monthSelect").value);
+
+    updateDashboard(year, month);
+}
 </script>
 
 <div class="card">
