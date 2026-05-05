@@ -35,6 +35,14 @@
             margin-top: 0px;
             max-height: 400px;
         }
+        select {
+            color: #2323FF;
+            background: #D3D3D3;
+        }
+        button {
+            color: #2323FF;
+            background: #D3D3D3;
+        }
     </style>
 </head>
 <body>
@@ -143,11 +151,10 @@ else {
     document.getElementById("living").innerText = "-";
 }
 
-// chart újrarajzolás
 const ctx = document.getElementById('chart');
 
 if (chart) {
-    chart.destroy(); // 👈 fontos
+    chart.destroy();
 }
 
 chart = new Chart(ctx, {
