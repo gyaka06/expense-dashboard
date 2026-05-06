@@ -446,5 +446,26 @@
     "Note": "Vir\u00E1g \u002B Zim\u00F3 sz\u00FClinap",
     "Budget": "Fun",
     "Date": "2026-04-30T08:17:40.382"
+  },
+  {
+    "Id": "32d43bc2-4cf4-4500-85c6-471ce01fdbbc",
+    "Amount": 925,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-04-30T08:33:52.589"
+  },
+  {
+    "Id": "63abb61d-052f-42a3-b8cf-347e16eb0ca8",
+    "Amount": 2190,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-30T08:33:52.589"
+  },
+  {
+    "Id": "ce6a205b-1fbf-48e5-82e6-e4489d4f30c3",
+    "Amount": 1697,
+    "Note": "uzsonna",
+    "Budget": "Living",
+    "Date": "2026-04-30T08:33:52.589"
   }
 ]
