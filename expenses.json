@@ -467,5 +467,47 @@
     "Note": "uzsonna",
     "Budget": "Living",
     "Date": "2026-04-30T08:33:52.589"
+  },
+  {
+    "Id": "52cc0eac-b0ed-4de8-9dea-9ff10b006d29",
+    "Amount": 7020,
+    "Note": "taxi",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "88f1f09e-0401-4a98-a962-aae660c3d904",
+    "Amount": 1127,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "e8c33f45-1631-4511-96b2-eb909c9a9081",
+    "Amount": 925,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "74e6d754-3876-4842-8d8d-ddf4f3669ee6",
+    "Amount": 5607,
+    "Note": "a38",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "e2a9bbe8-b4e1-4a3c-a8c4-e8d8cee7942c",
+    "Amount": 8010,
+    "Note": "a38",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "c57b8bb9-cda4-46bb-8ff5-440b6d3c7233",
+    "Amount": 4673,
+    "Note": "a38",
+    "Budget": "Living",
+    "Date": "2026-04-29T12:51:39.553"
   }
 ]
