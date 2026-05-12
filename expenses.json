@@ -509,5 +509,19 @@
     "Note": "a38",
     "Budget": "Living",
     "Date": "2026-04-29T12:51:39.553"
+  },
+  {
+    "Id": "74efcbbc-fb9d-44e2-a50d-63e11a04f4cc",
+    "Amount": 147000,
+    "Note": "lakb\u00E9r \u002B bev\u00E1s\u00E1rl\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-05-12T08:27:39.481586+02:00"
+  },
+  {
+    "Id": "b71ec370-6683-4852-9b38-e7739ec4e4e2",
+    "Amount": 925,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-12T08:27:39.481586+02:00"
   }
 ]
