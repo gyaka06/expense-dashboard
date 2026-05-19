@@ -523,5 +523,75 @@
     "Note": "bosch reggeli",
     "Budget": "Living",
     "Date": "2026-05-12T08:27:39.481586+02:00"
+  },
+  {
+    "Id": "75c26740-0979-4bda-b357-447946be3009",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-19T08:22:25.8593531+02:00"
+  },
+  {
+    "Id": "d8817b96-9ca2-4c44-9c51-2b3ecb5325b5",
+    "Amount": 5630,
+    "Note": "telefon sz\u00E1mla",
+    "Budget": "Fun",
+    "Date": "2026-05-19T08:22:25.8593531+02:00"
+  },
+  {
+    "Id": "cdfaa7a6-0313-47c1-86e7-eacdee6e32f0",
+    "Amount": 6190,
+    "Note": "yt prem",
+    "Budget": "Fun",
+    "Date": "2026-05-19T08:22:25.8593531+02:00"
+  },
+  {
+    "Id": "08656f78-ca23-46fe-8954-5d61a016edbd",
+    "Amount": 6045,
+    "Note": "Aldi",
+    "Budget": "Living",
+    "Date": "2026-05-16T08:22:25.859"
+  },
+  {
+    "Id": "c7c05c1c-46ff-4826-890d-7034b531b692",
+    "Amount": 1659,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-05-12T08:22:25.859"
+  },
+  {
+    "Id": "614a98e6-ff39-4247-914d-69d26833a8d6",
+    "Amount": 3190,
+    "Note": "Netflix",
+    "Budget": "Fun",
+    "Date": "2026-05-14T08:22:25.859"
+  },
+  {
+    "Id": "20ce1caa-62f2-4ee7-9bac-58ee7fb8362d",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-14T08:22:25.859"
+  },
+  {
+    "Id": "909d5972-4713-42fe-99fd-6427313c198b",
+    "Amount": 920,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-05-14T08:22:25.859"
+  },
+  {
+    "Id": "9282fb90-8571-49ee-9dd0-a8006727852b",
+    "Amount": 6512,
+    "Note": "Auchan",
+    "Budget": "Living",
+    "Date": "2026-05-14T08:22:25.859"
+  },
+  {
+    "Id": "4c331530-0ca2-4266-80f1-8c5d3816225d",
+    "Amount": 1900,
+    "Note": "dohi",
+    "Budget": "Fun",
+    "Date": "2026-05-14T08:22:25.859"
   }
 ]
