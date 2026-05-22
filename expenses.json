@@ -593,5 +593,75 @@
     "Note": "dohi",
     "Budget": "Fun",
     "Date": "2026-05-14T08:22:25.859"
+  },
+  {
+    "Id": "9375ed9c-a260-4ab2-9765-08b320f2a728",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-19T08:03:11.297"
+  },
+  {
+    "Id": "da20ab7c-ae2d-45ba-82ab-91d29e5cc308",
+    "Amount": 410,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-05-19T08:03:11.297"
+  },
+  {
+    "Id": "a479a66d-6ce8-4172-9b04-9a22661ab486",
+    "Amount": 800,
+    "Note": "sport ital",
+    "Budget": "Fun",
+    "Date": "2026-05-19T08:03:11.297"
+  },
+  {
+    "Id": "c0eca11e-151c-44f0-960c-37df5dbb58a0",
+    "Amount": 4190,
+    "Note": "premier leak",
+    "Budget": "Fun",
+    "Date": "2026-05-19T08:03:11.297"
+  },
+  {
+    "Id": "3df788e1-b84c-407b-acaa-36d4ffdc0b24",
+    "Amount": 6030,
+    "Note": "burger king",
+    "Budget": "Fun",
+    "Date": "2026-05-20T08:03:11.297"
+  },
+  {
+    "Id": "f0309dba-cdeb-42f1-84c0-0878335d113d",
+    "Amount": 3675,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-05-20T08:03:11.297"
+  },
+  {
+    "Id": "c9e3a6d8-a4ef-4a88-963e-850d90eca7d4",
+    "Amount": 1300,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-05-20T08:03:11.297"
+  },
+  {
+    "Id": "2090efa0-d590-456b-a55d-fb0861f8bc18",
+    "Amount": 761,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-20T08:03:11.297"
+  },
+  {
+    "Id": "54a7a2c5-d94f-4bb5-a4f8-d4a9aa524f96",
+    "Amount": 1928,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-21T08:03:11.297"
+  },
+  {
+    "Id": "80121cc5-429e-4e22-b508-eb62392811fe",
+    "Amount": 4132,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-05-21T08:03:11.297"
   }
 ]
