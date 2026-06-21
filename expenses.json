@@ -768,5 +768,278 @@
     "Note": "Niki \u00E1tutal\u00E1s",
     "Budget": "Fun",
     "Date": "2026-05-27T13:38:02.701"
+  },
+  {
+    "Id": "4af7934d-000e-43b1-8dab-aa807d209499",
+    "Amount": 1680,
+    "Note": "kinai",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "2eabc4f6-8cc2-410f-ad19-4153d6f2e50a",
+    "Amount": 8000,
+    "Note": "fodr\u00E1sz",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "a0ecbf6a-4e73-4893-86c5-a5e5ebe11fd6",
+    "Amount": 3600,
+    "Note": "sekiz",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "744f3dce-dab8-469e-a9f5-c3c971bb1138",
+    "Amount": 5670,
+    "Note": "alphazoo",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "447f6418-0a21-4231-af61-f4088034f3ae",
+    "Amount": 1360,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "9b789afd-38ef-4c05-bd9d-ccb4cac7bafa",
+    "Amount": 4744,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "4c1f6ab7-1d37-47c6-9c9c-1894e5a8b2ba",
+    "Amount": 2933,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-05-28T09:24:43.997"
+  },
+  {
+    "Id": "b6ac4fd0-e622-44b4-9f94-6d9cb495956a",
+    "Amount": 18000,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9g",
+    "Budget": "Living",
+    "Date": "2026-05-29T07:59:16.732"
+  },
+  {
+    "Id": "ef82dd70-7a4d-46eb-b1c2-0bd0a2773070",
+    "Amount": 2000,
+    "Note": "cloverpit",
+    "Budget": "Living",
+    "Date": "2026-05-31T08:56:36.443"
+  },
+  {
+    "Id": "55b5b501-289f-4cc4-a6d9-8ccae76cc394",
+    "Amount": 4450,
+    "Note": "portal tok",
+    "Budget": "Fun",
+    "Date": "2026-05-31T12:50:28.716"
+  },
+  {
+    "Id": "c0482690-2762-4502-8329-a3727976c6b4",
+    "Amount": 410,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-31T12:50:28.716"
+  },
+  {
+    "Id": "bda14777-3399-46c2-8d4a-dd79bad54ea3",
+    "Amount": 1267,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-31T12:50:28.716"
+  },
+  {
+    "Id": "e96b74d1-4669-457b-abea-6f607cd2c4c1",
+    "Amount": 330,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-05-31T12:50:28.716"
+  },
+  {
+    "Id": "42e53bcf-b8e3-48a7-b6cb-1ba66bb462e9",
+    "Amount": 3544,
+    "Note": "Niki gy\u00F3gyszer",
+    "Budget": "Fun",
+    "Date": "2026-05-31T08:27:10.418"
+  },
+  {
+    "Id": "49a1962c-548d-413b-abf1-82b3a67fcc74",
+    "Amount": 4171,
+    "Note": "Aldi",
+    "Budget": "Fun",
+    "Date": "2026-05-31T08:27:10.418"
+  },
+  {
+    "Id": "3cb1cc67-9fe2-41c2-b16e-06b4874f08bf",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "cbd5f416-78ce-471d-bad6-8af58356fbef",
+    "Amount": 1229,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "37d8232a-6a00-4fe7-92a4-edde2bc1463d",
+    "Amount": 121,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "1e1481c2-26bb-4f3e-82c1-0f4f88422098",
+    "Amount": 1999,
+    "Note": "telotok",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "5bb8cbc4-739f-47a7-b79b-4df4a22f25e3",
+    "Amount": 9030,
+    "Note": "a38",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "6d006b96-af17-42cd-b7aa-96a219b9fc48",
+    "Amount": 10868,
+    "Note": "a38",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "c0d6de40-90e4-43f3-a522-bccf62aa887c",
+    "Amount": 9146,
+    "Note": "a38",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "076e1a02-72e9-47c4-8db3-37189610beee",
+    "Amount": 1010,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:13:36.154"
+  },
+  {
+    "Id": "6969b5df-bf7e-4488-bc9a-57e0fcda59bc",
+    "Amount": 2190,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "bad4a982-8527-4ba9-957a-58bc2ddf44eb",
+    "Amount": 255326,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "ae1c9b9a-2af5-4178-ab20-e4e10f285e22",
+    "Amount": 620,
+    "Note": "parkol\u00E1s",
+    "Budget": "Fun",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "1cea1900-37b5-4930-9525-dc50ad6c827f",
+    "Amount": 4500,
+    "Note": "balcsi",
+    "Budget": "Fun",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "1b603fe7-c61f-4a73-8203-0e15f1f30085",
+    "Amount": 1595,
+    "Note": "netflix",
+    "Budget": "Fun",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "bcd2c49e-4ed4-4a65-bcde-905932c93ffa",
+    "Amount": 2000,
+    "Note": "tippmix",
+    "Budget": "Fun",
+    "Date": "2026-05-30T08:04:41.667"
+  },
+  {
+    "Id": "fb14e597-69c2-4ff8-8171-c33c072e4bb0",
+    "Amount": 600,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "8433d839-0880-458d-a737-30b9a7336da4",
+    "Amount": 1516,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "399d64a6-fd4a-40d1-b50c-3ba35d3791eb",
+    "Amount": 6190,
+    "Note": "yt pr\u00E9mium",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "231c72f4-6cfb-4354-a133-4430db37ff6e",
+    "Amount": 1800,
+    "Note": "sekiz",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "09cd6b21-a796-4eb2-809e-3e60fc384f61",
+    "Amount": 925,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "07db49e6-457e-4686-9d03-afb65c5b9331",
+    "Amount": 1220,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "06ea45e4-6ac3-4770-831d-c91adced78d9",
+    "Amount": 4273,
+    "Note": "Lidl",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "b7f71fbe-d3f2-4f30-970e-4e6652523961",
+    "Amount": 4190,
+    "Note": "leak",
+    "Budget": "Fun",
+    "Date": "2026-05-30T09:59:33.588"
+  },
+  {
+    "Id": "ce11ab40-e1da-4a1d-8bf9-efa6e645e34e",
+    "Amount": 15990,
+    "Note": "Zara",
+    "Budget": "Living",
+    "Date": "2026-06-19T10:02:09.504"
+  },
+  {
+    "Id": "7d84fcaf-9343-4d80-b7b2-654b43415948",
+    "Amount": 11807,
+    "Note": "Lidl",
+    "Budget": "Living",
+    "Date": "2026-06-19T10:02:09.504"
   }
 ]
