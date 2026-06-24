@@ -1041,5 +1041,54 @@
     "Note": "Lidl",
     "Budget": "Living",
     "Date": "2026-06-19T10:02:09.504"
+  },
+  {
+    "Id": "005515c7-985d-4096-8048-835f014f4216",
+    "Amount": 194674,
+    "Note": "laptop",
+    "Budget": "Savings",
+    "Date": "2026-05-30T14:35:24.657"
+  },
+  {
+    "Id": "ec2a0dc6-0ce8-452c-9dd8-fab008959e15",
+    "Amount": 100000,
+    "Note": "laptop",
+    "Budget": "Savings",
+    "Date": "2026-06-24T14:35:58.6366894+02:00"
+  },
+  {
+    "Id": "8b9fcb4a-d257-4944-89a8-cd065f187f89",
+    "Amount": 1000,
+    "Note": "padel labda",
+    "Budget": "Fun",
+    "Date": "2026-06-21T14:35:58.636"
+  },
+  {
+    "Id": "e034f415-bffb-4815-99fe-f7fb17aec921",
+    "Amount": 900,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-06-23T14:35:58.636"
+  },
+  {
+    "Id": "5ade0c3b-39ef-442a-be38-61356c940dd1",
+    "Amount": 804,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-06-23T14:35:58.636"
+  },
+  {
+    "Id": "bda4e591-5fa9-4f9a-b1ff-fcf483a7b847",
+    "Amount": 540,
+    "Note": "bosch desszert",
+    "Budget": "Fun",
+    "Date": "2026-06-23T14:35:58.636"
+  },
+  {
+    "Id": "3ba11e99-5ca3-4dd4-a847-bc8017a28048",
+    "Amount": 400,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-06-24T14:35:58.636"
   }
 ]
