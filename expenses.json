@@ -1461,5 +1461,33 @@
     "Note": "gimis tali",
     "Budget": "Living",
     "Date": "2026-06-30T09:12:54.055"
+  },
+  {
+    "Id": "b8990de0-f7dc-4292-932d-bba031731835",
+    "Amount": 1000,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:21:27.39"
+  },
+  {
+    "Id": "7bc92344-709b-4f04-aca8-8d7a1f066ee2",
+    "Amount": 620,
+    "Note": "bosch k\u00E1v\u00E9",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:21:27.39"
+  },
+  {
+    "Id": "5dc6fa9a-7762-4a03-9bda-21a86811ada8",
+    "Amount": 2120,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:21:27.39"
+  },
+  {
+    "Id": "659d6166-c49d-4cfb-b694-7459870263ab",
+    "Amount": 240,
+    "Note": "bosch csoki",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:21:27.39"
   }
 ]
