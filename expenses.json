@@ -1489,5 +1489,285 @@
     "Note": "bosch csoki",
     "Budget": "Living",
     "Date": "2026-06-30T08:21:27.39"
+  },
+  {
+    "Id": "410803c9-72f6-4bf0-b996-0b6321b4169c",
+    "Amount": 12417,
+    "Note": "telo sz\u00E1mla",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "e8f1a200-6d3a-4bbd-adbc-92df0cc0e376",
+    "Amount": 9677,
+    "Note": "Lidl",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "a5a0a560-0e7e-4dfb-8433-3cd209970e04",
+    "Amount": 13000,
+    "Note": "tankol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "0000878e-4874-4ba8-ad61-c7eb169c46d4",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "0a4b44eb-e4fb-4dd4-9560-047f56af63c9",
+    "Amount": 399,
+    "Note": "apple cloud mama",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "9f6b7ee4-732e-45c5-9a9b-5ade1873c2a5",
+    "Amount": 3269,
+    "Note": "\u00E9rt\u00E9kpap\u00EDr sz\u00E1mlad\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-06-30T07:51:18.776"
+  },
+  {
+    "Id": "4211f050-2a22-4e4e-a368-22fd10a49cf6",
+    "Amount": 108000,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-07-27T07:53:50.2453452+02:00"
+  },
+  {
+    "Id": "9608a2d2-ff8c-4fe9-8713-c387dff4ec7b",
+    "Amount": 600,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "fcaa63cd-1953-491e-adc0-adcbecb570e9",
+    "Amount": 645,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "0ceffd7d-627a-4883-a3bb-fac7fcb15680",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "41da5204-30d6-4a01-944f-7ab12975344c",
+    "Amount": 1348,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "7df70c99-1192-48c3-a776-d3f19b14471b",
+    "Amount": 2198,
+    "Note": "spar",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "34f6b71a-d266-4999-b865-9a657055a4c8",
+    "Amount": 2095,
+    "Note": "barack hamika",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "43eee063-a289-45b2-b4a3-5854d0f1b0bd",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "996fc865-4949-4fb5-b758-81c0975b5f8a",
+    "Amount": 1181,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Savings",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "86afef6d-b733-4adb-90e4-0438ec659055",
+    "Amount": 798,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:58:09.867"
+  },
+  {
+    "Id": "7c26d5f3-2c0f-4670-838c-7d010fa79055",
+    "Amount": 3880,
+    "Note": "burger",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "640b7875-fdfd-46c3-9aa9-d065f85c79a2",
+    "Amount": 469,
+    "Note": "havi csomagd\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "bc77c7c1-86ac-4781-bca1-41a8e58bd395",
+    "Amount": 168,
+    "Note": "id\u0151szakos k\u00F6lts\u00E9g",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "0d11ccf9-5dda-4228-8b5a-fddf2854be49",
+    "Amount": 1200,
+    "Note": "kocsi mos\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "d0372bf6-dcc6-4c45-83fb-384704e6062d",
+    "Amount": 1290,
+    "Note": "vodi\u00E1n",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "fa906106-e723-4ef9-9f04-5dd3b83e1eee",
+    "Amount": 10650,
+    "Note": "auchan",
+    "Budget": "Living",
+    "Date": "2026-06-30T08:19:52.454"
+  },
+  {
+    "Id": "90b2cfe0-126c-42f6-b948-6f02cbbca192",
+    "Amount": 21900,
+    "Note": "fogk\u0151",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:23:38.15"
+  },
+  {
+    "Id": "98285065-d7c5-4199-8a87-896b9a9034ca",
+    "Amount": 1500,
+    "Note": "pokemon",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:23:38.15"
+  },
+  {
+    "Id": "737b314f-1975-4116-b1bc-91adeedcab3c",
+    "Amount": 980,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "1bd574f6-f0b3-495d-853a-b796dcb7fa4b",
+    "Amount": 610,
+    "Note": "bosch kaja",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "191bc2e4-c358-4a75-b235-08a2950a73bf",
+    "Amount": 600,
+    "Note": "bosch kaja",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "4e3d59ae-51c1-4b30-9a83-f13f57bd86d9",
+    "Amount": 410,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "1a46d33f-51a0-4d36-b4c4-9c69679fcd50",
+    "Amount": 1482,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "221398ca-7c20-49dc-a368-ccf238e39be3",
+    "Amount": 550,
+    "Note": "bosch b\u00FCf\u00E9",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "efa66e57-916a-4f5d-9ba4-cd76080b5e30",
+    "Amount": 560,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "899bb87c-2945-44a5-af63-353a9bccc91d",
+    "Amount": 173860,
+    "Note": "k\u00F6lts\u00E9g \u00E1tvezet\u00E9s",
+    "Budget": "Fun",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "eb2f3774-0bd6-429d-87b8-205566ba20c9",
+    "Amount": -173860,
+    "Note": "k\u00F6lts\u00E9g \u00E1tvezet\u00E9s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T08:54:45.884"
+  },
+  {
+    "Id": "559282a1-5a48-4ade-a869-a6ab3acce09a",
+    "Amount": 1822,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:15:51.974"
+  },
+  {
+    "Id": "ac85df40-197e-4563-a801-5c78738c9e58",
+    "Amount": 3300,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:24:13.22"
+  },
+  {
+    "Id": "73256446-1260-4f26-8631-fced01a74b74",
+    "Amount": 8000,
+    "Note": "fodr\u00E1sz",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:24:13.22"
+  },
+  {
+    "Id": "337069f4-73b7-43bf-8e70-9e44bf890066",
+    "Amount": 1599,
+    "Note": "r\u00F3zsa",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:24:13.22"
+  },
+  {
+    "Id": "4190c76f-e5b8-4f7d-9568-0522c5611d60",
+    "Amount": 6100,
+    "Note": "tesco",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:24:13.22"
+  },
+  {
+    "Id": "a1ec5036-f85f-4760-8846-f8f4f32931aa",
+    "Amount": 990,
+    "Note": "sz\u00E9na",
+    "Budget": "Living",
+    "Date": "2026-07-31T08:24:13.22"
+  },
+  {
+    "Id": "8e033ab3-4cc4-4444-a666-aa7a89cda448",
+    "Amount": 107914,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-08-11T08:29:52.5040706+02:00"
   }
 ]
