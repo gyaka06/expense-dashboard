@@ -117,63 +117,70 @@ Promise.all
 
 function updateDashboard(year, month) {
 
-let total = 0;
-let categories = {};
+    let total = 0;
+    let categories = {};
+    let allCategories = {};
 
-expenses.forEach(e => {
-    const d = new Date(e.Date);
+    expenses.forEach(e => {
+        const d = new Date(e.Date);
 
-    if (d.getFullYear() === year && d.getMonth() + 1 === month) {
+        if (d.getFullYear() === year && d.getMonth() + 1 === month) {
 
-        total += e.Amount;
+            total += e.Amount;
 
-        if(e.Amount > 0){
-            if (!categories[e.Budget]) {
-                categories[e.Budget] = 0;
+            if (!allCategories[e.Budget]) {
+                allCategories[e.Budget] = 0;
             }
 
-            categories[e.Budget] += e.Amount;
+            allCategories[e.Budget] += e.Amount;
+
+            if (e.Amount > 0) {
+                if (!categories[e.Budget]) {
+                    categories[e.Budget] = 0;
+                }
+
+                categories[e.Budget] += e.Amount;
+            }
         }
+    });
+
+    document.getElementById("total").innerText = formatNumber(total);
+
+    const currentBudget = budgets.find(b =>
+        b.Month === month && b.Year === year
+    );
+
+    if (currentBudget) {
+        document.getElementById("savings").innerText =
+            formatNumber(currentBudget.SavingsBudget - (allCategories["Savings"] || 0));
+
+        document.getElementById("fun").innerText =
+            formatNumber(currentBudget.FunBudget - (allCategories["Fun"] || 0));
+
+        document.getElementById("living").innerText =
+            formatNumber(currentBudget.LivingBudget - (allCategories["Living"] || 0));
     }
-});
-
-document.getElementById("total").innerText = formatNumber(total);
-
-const currentBudget = budgets.find(b =>
-    b.Month === month && b.Year === year
-);
-
-if (currentBudget) {
-    document.getElementById("savings").innerText =
-        formatNumber(currentBudget.SavingsBudget - (categories["Savings"] || 0));
-
-    document.getElementById("fun").innerText =
-        formatNumber(currentBudget.FunBudget - (categories["Fun"] || 0));
-
-    document.getElementById("living").innerText =
-        formatNumber(currentBudget.LivingBudget - (categories["Living"] || 0));
-}
-else {
-    document.getElementById("savings").innerText = "-";
-    document.getElementById("fun").innerText = "-";
-    document.getElementById("living").innerText = "-";
-}
-
-const ctx = document.getElementById('chart');
-
-if (chart) {
-    chart.destroy();
-}
-
-chart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-        labels: Object.keys(categories),
-        datasets: [{
-            data: Object.values(categories)
-        }]
+    else {
+        document.getElementById("savings").innerText = "-";
+        document.getElementById("fun").innerText = "-";
+        document.getElementById("living").innerText = "-";
     }
-});
+
+    const ctx = document.getElementById('chart');
+
+    if (chart) {
+        chart.destroy();
+    }
+
+    chart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: Object.keys(categories),
+            datasets: [{
+                data: Object.values(categories)
+            }]
+        }
+    });
 }
 
 function applyFilter() {
