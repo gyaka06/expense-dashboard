@@ -127,11 +127,13 @@ expenses.forEach(e => {
 
         total += e.Amount;
 
-        if (!categories[e.Budget]) {
-            categories[e.Budget] = 0;
-        }
+        if(e.Amount > 0){
+            if (!categories[e.Budget]) {
+                categories[e.Budget] = 0;
+            }
 
-        categories[e.Budget] += e.Amount;
+            categories[e.Budget] += e.Amount;
+        }
     }
 });
 
