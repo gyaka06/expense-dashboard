@@ -1769,5 +1769,201 @@
     "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
     "Budget": "Living",
     "Date": "2026-08-11T08:29:52.5040706+02:00"
+  },
+  {
+    "Id": "4d156f52-3d9c-4aee-921d-d51a04dba68f",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "2121ef37-9abf-492f-a957-3cd0d52eee96",
+    "Amount": 1526,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "5f8fd3b7-58c1-485e-bef6-bccd14a89d69",
+    "Amount": 4800,
+    "Note": "barack kaja",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "52d19da8-e2cf-49bd-b81b-73b220fe7284",
+    "Amount": 732,
+    "Note": "rept\u00E9r",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "a9e6a69b-94e8-4589-ab06-fb4b6348c3d7",
+    "Amount": 114018,
+    "Note": "pefanis",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "bf9be470-c809-4866-9e50-357bab0e3933",
+    "Amount": 348,
+    "Note": "otp",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "2a82ca87-4101-42c8-961b-25f04652c9cd",
+    "Amount": 5400,
+    "Note": "telefon sz\u00E1mla f\u00E9l\u00E9ves d\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "4da112f0-7b6d-40c4-b2a9-f4e00550ab03",
+    "Amount": 3190,
+    "Note": "netflix",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "5b2de6d8-5297-4d2f-b2ba-f3119c1a6e2d",
+    "Amount": 3196,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "044c49ec-09c8-41a5-998d-76e09be23e0e",
+    "Amount": 21303,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "083230bc-6fb4-4355-80d3-e163fb63a036",
+    "Amount": 2813,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "362cc0b6-79f7-4a2f-821b-5bcfe4148f2a",
+    "Amount": 4367,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "9058df83-7aae-4e34-afec-367dad73c911",
+    "Amount": 2813,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "b4b577cc-fe9a-4452-b8ac-24bf120b41dd",
+    "Amount": 7346,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "597cc749-b5c8-480f-a0dc-ae31ae68ed96",
+    "Amount": 952,
+    "Note": "otp \u00FCzenetd\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "921a6a6f-a9c9-4fe8-9d2e-920fdc338b0d",
+    "Amount": 11836,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "9c5641b5-0096-4e88-aa52-fd94cef6d5e6",
+    "Amount": 5181,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "7734ed8c-4dc1-4ccb-85ce-f6f9bfbef378",
+    "Amount": 6190,
+    "Note": "yt pr\u00E9mium",
+    "Budget": "Living",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "f3dc9789-f80a-44f6-82f8-9641512442a5",
+    "Amount": 4190,
+    "Note": "leak",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "41e0efaa-434c-4ea8-9209-337ccf1e0fdd",
+    "Amount": 9141,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "cb260c5e-d084-4150-8e8e-94aafc2e2178",
+    "Amount": 3331,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "0a217581-93e0-4ce2-b024-effd6978c7bb",
+    "Amount": 11842,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "4ad13f26-8631-4e98-9669-db0b07953b3e",
+    "Amount": 2813,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "06725569-5d88-4184-a413-4e00e7213c45",
+    "Amount": 24795,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "39c24a21-ffb7-45bd-82f4-2ec748711c2e",
+    "Amount": 5181,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "02237484-8adf-42ba-8ff4-66252ca90cdc",
+    "Amount": 12000,
+    "Note": "nyaral\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-07-31T10:32:16.324"
+  },
+  {
+    "Id": "474f6aee-630c-4bb8-a8c8-18ddbe7587ce",
+    "Amount": 1300,
+    "Note": "2 monster",
+    "Budget": "Fun",
+    "Date": "2026-08-23T10:40:51.6622979+02:00"
+  },
+  {
+    "Id": "252b6112-3918-4198-99bb-5a4859f15421",
+    "Amount": 5580,
+    "Note": "iv\u00E1szat",
+    "Budget": "Fun",
+    "Date": "2026-08-23T10:40:51.6622979+02:00"
   }
 ]
