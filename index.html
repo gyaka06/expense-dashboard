@@ -187,12 +187,12 @@ function updateDashboard(year, month) {
         if (previous > 0) {
             let change =
                 ((current - previous) / previous) * 100;
-            if (change > 0 {
+            if (change > 0) {
                 insights.push(
                     `${category}: ↑ ${change.toFixed(1)}% vs last month`
                     );
             }
-            else if (change < 0 {
+            else if (change < 0) {
                 insights.push(
                     `${category}: ↓ ${Math.abs(change).toFixed(1)}% vs last month`
                     );
