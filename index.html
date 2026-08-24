@@ -120,6 +120,16 @@ function updateDashboard(year, month) {
     let total = 0;
     let categories = {};
     let allCategories = {};
+    let currentCategories = {};
+    let previousCategories = {};
+
+    let previousMonth = month - 1;
+    let previousYear = year;
+
+    if (previousMonth === 0) {
+        previousMonth = 12;
+        previousYear--;
+    }
 
     expenses.forEach(e => {
         const d = new Date(e.Date);
@@ -140,6 +150,57 @@ function updateDashboard(year, month) {
                 }
 
                 categories[e.Budget] += e.Amount;
+            }
+        }
+    });
+    expenses.forEach(e => {
+
+    const d = new Date(e.Date);
+
+    // currentMonth
+    if (d.getFullYear() === year &&
+        d.getMonth() + 1 === month) {
+
+        if (!currentCategories[e.Budget])
+            currentCategories[e.Budget] = 0;
+
+        currentCategories[e.Budget] += e.Amount;
+    }
+
+    // previousMonth
+    if (d.getFullYear() === previousYear &&
+        d.getMonth() + 1 === previousMonth) {
+
+        if (!previousCategories[e.Budget])
+            previousCategories[e.Budget] = 0;
+
+        previousCategories[e.Budget] += e.Amount;
+    }
+    });
+
+    let insights = [];
+
+    Object.keys(currentCategories).forEach(category => {
+        let current = currentCategories[category] || 0;
+        let previous = previousCategories[category] || 0;
+
+        if (previous > 0) {
+            let change =
+                ((current - previous) / previous) * 100;
+            if (change > 0 {
+                insights.push(
+                    `${category}: ↑ ${change.toFixed(1)}% vs last month`
+                    );
+            }
+            else if (change < 0 {
+                insights.push(
+                    `${category}: ↓ ${Math.abs(change).toFixed(1)}% vs last month`
+                    );
+            }
+            else {
+                insights.push(
+                    `${category}: no change`
+                    );
             }
         }
     });
@@ -181,6 +242,8 @@ function updateDashboard(year, month) {
             }]
         }
     });
+    document.getElementById("insights").innerHTML =
+        insights.join("<br>");
 }
 
 function applyFilter() {
@@ -190,6 +253,11 @@ function applyFilter() {
     updateDashboard(year, month);
 }
 </script>
+
+<div class="card">
+    <h3>Insights</h3>
+    <div id="insights"></div>
+</div>
 
 <div class="card">
     <h3>Remaining Budget</h3>
