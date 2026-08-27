@@ -1965,5 +1965,54 @@
     "Note": "iv\u00E1szat",
     "Budget": "Fun",
     "Date": "2026-08-23T10:40:51.6622979+02:00"
+  },
+  {
+    "Id": "8efc92fb-4991-42a6-87ce-2a56bfcb1e94",
+    "Amount": 600,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "8afe3a5f-6af4-49f2-8024-31802593d148",
+    "Amount": 400,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "f5ec10fc-7734-4eae-8bae-64b5269e6b85",
+    "Amount": 2470,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "3798efa3-093c-4048-a5ae-dc67c7bfb27b",
+    "Amount": 550,
+    "Note": "bosch b\u00FCf\u00E9",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "a87ae6a8-e05d-4676-9033-b2d67a5ff47f",
+    "Amount": 400,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "f9a1ce21-73fc-4bb1-ba8d-742c578e83f1",
+    "Amount": 6800,
+    "Note": "mozi",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "a0c0f546-9b0e-4138-9b78-c4990ed65c87",
+    "Amount": 1467,
+    "Note": "aldi",
+    "Budget": "Fun",
+    "Date": "2026-08-24T15:50:15.132"
   }
 ]
