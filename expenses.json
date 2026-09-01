@@ -2014,5 +2014,103 @@
     "Note": "aldi",
     "Budget": "Fun",
     "Date": "2026-08-24T15:50:15.132"
+  },
+  {
+    "Id": "3870cda2-c314-46ad-a9fa-93f2450b3aef",
+    "Amount": 928,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "f284e99a-b3fe-420d-853d-3035bd9a68aa",
+    "Amount": 1444,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "92c92b2b-fca8-4e38-a2b1-149edbcb83a9",
+    "Amount": 1752,
+    "Note": "spar",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "da88bc56-125c-4e75-b72e-ee0c5dd4a84d",
+    "Amount": 1900,
+    "Note": "dohi",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "895974ce-66e8-4c52-a73a-1a280c8dd1dc",
+    "Amount": 1875,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "c101d5c7-9d24-4121-9bd5-d5df3fc5648b",
+    "Amount": 2250,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "52705d12-673b-4d4a-9225-cbf985d6a516",
+    "Amount": 2250,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "33757c3c-013a-4c40-8016-b7c9ac170022",
+    "Amount": 990,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "ad481476-0094-4e1e-89d0-5bfb3d61f09c",
+    "Amount": 4230,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "92c8bc7f-2955-4cff-a109-578a6a79996f",
+    "Amount": 4650,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "2d9e7981-c2a2-4332-971a-d2bff188af02",
+    "Amount": 3900,
+    "Note": "hajo",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "65179dfd-af2f-4ecd-a1eb-30cf38bcaa1e",
+    "Amount": 6200,
+    "Note": "hajo",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "f6ddca6b-765b-4307-bb19-ed29aa60323e",
+    "Amount": 6530,
+    "Note": "taxi",
+    "Budget": "Fun",
+    "Date": "2026-08-31T08:02:33.5092441+02:00"
+  },
+  {
+    "Id": "19a8da5d-1059-4708-8d39-72c537d3a21a",
+    "Amount": 227335,
+    "Note": "Esk\u00FCv\u0151",
+    "Budget": "Savings",
+    "Date": "2026-07-31T15:35:35.74"
   }
 ]
