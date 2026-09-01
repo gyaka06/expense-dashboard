@@ -103,6 +103,23 @@
     <canvas id="chart"></canvas>
 </div>
 
+<div class="card">
+    <h3>Insights</h3>
+    <div id="insights" class="insights-container"></div>
+</div>
+
+<div class="card">
+    <h3>Forecast</h3>
+    <div id="forecast"></div>
+</div>
+
+<div class="card">
+    <h3>Remaining Budget</h3>
+    <p>Savings: <span id="savings"></span></p>
+    <p>Fun: <span id="fun"></span></p>
+    <p>Living: <span id="living"></span></p>
+</div>
+
 <script>
 let expenses = [];
 let budgets = [];
@@ -373,23 +390,5 @@ function applyFilter() {
     updateDashboard(year, month);
 }
 </script>
-
-<div class="card">
-    <h3>Insights</h3>
-    <div id="insights" class="insights-container"></div>
-</div>
-
-<div class="card">
-    <h3>Forecast</h3>
-    <div id="forecast"></div>
-</div>
-
-<div class="card">
-    <h3>Remaining Budget</h3>
-    <p>Savings: <span id="savings"></span></p>
-    <p>Fun: <span id="fun"></span></p>
-    <p>Living: <span id="living"></span></p>
-</div>
-    
 </body>
 </html>
