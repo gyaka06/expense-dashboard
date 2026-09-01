@@ -303,7 +303,77 @@ function updateDashboard(year, month) {
         `;
 
     }).join("");
+
+    // forecast
+    const forecastData = calculateForecast(year, month, currentCategories);
+    
+    const progressPercent = forecastData.monthProgress * 100;
+    
+    const livingCurrent = currentCategories["Living"] || 0;
+    const funCurrent = currentCategories["Fun"] || 0;
+    const savingsCurrent = currentCategories["Savings"] || 0;
+    
+    const livingForecast = forecastData.forecast["Living"] || 0;
+    const funForecast = forecastData.forecast["Fun"] || 0;
+    const savingsForecast = forecastData.forecast["Savings"] || 0;
+    
+    document.getElementById("forecast").innerHTML = `
+        <p>
+            <strong>Month progress:</strong>
+            ${progressPercent.toFixed(0)}%
+        </p>
+    
+        <p>
+            Living:
+            ${formatNumber(livingCurrent)}
+            → 
+            <strong>${formatNumber(livingForecast)}</strong>
+        </p>
+    
+        <p>
+            Fun:
+            ${formatNumber(funCurrent)}
+            → 
+            <strong>${formatNumber(funForecast)}</strong>
+        </p>
+    
+        <p>
+            Savings:
+            ${formatNumber(savingsCurrent)}
+            → 
+            <strong>${formatNumber(savingsForecast)}</strong>
+        </p>
+    `;
+    }
+
+function calculateForecast(year, month, currentCategories) {
+
+    const selectedDate = new Date(year, month - 1);
+    const now = new Date();
+
+    let monthProgress = 1;
+
+    if (year === now.getFullYear() && month === now.getMonth() + 1)
+    {
+        const daysInMonth = new Date(year, month, 0).getDate();
+    
+        monthProgress = now.getDate() / daysInMonth;
+    }
+
+    let forecast = {};
+
+    Object.keys(currentCategories).forEach(category => {
+        const currentAmount = currentCategories[category] || 0;
+
+        forecast[category] = currentAmount / monthProgress;
+    });
+
+    return {
+        monthProgress,
+        forecast
+    };
 }
+
 
 function applyFilter() {
     const year = parseInt(document.getElementById("yearSelect").value);
@@ -316,6 +386,11 @@ function applyFilter() {
 <div class="card">
     <h3>Insights</h3>
     <div id="insights" class="insights-container"></div>
+</div>
+
+<div class="card">
+    <h3>Forecast</h3>
+    <div id="forecast"></div>
 </div>
 
 <div class="card">
