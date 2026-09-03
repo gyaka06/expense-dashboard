@@ -2107,17 +2107,59 @@
     "Date": "2026-08-31T08:02:33.5092441+02:00"
   },
   {
-    "Id": "19a8da5d-1059-4708-8d39-72c537d3a21a",
-    "Amount": 227335,
-    "Note": "Esk\u00FCv\u0151",
-    "Budget": "Savings",
-    "Date": "2026-07-31T15:35:35.74"
+    "Id": "14adccfa-a0db-4171-b232-03cbaff1bf47",
+    "Amount": 12500,
+    "Note": "szabszoba",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
   },
   {
-    "Id": "39068d8d-4519-4758-b257-152084261ca8",
-    "Amount": 237819,
-    "Note": "Esk\u00FCv\u0151",
-    "Budget": "Savings",
-    "Date": "2026-06-17T15:47:57.032"
+    "Id": "cfe07d07-ed12-4c10-b33e-371792e85a7b",
+    "Amount": 1290,
+    "Note": "vodi\u00E1n",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "a73433ef-8418-4e2b-be6d-2dafbe1b4986",
+    "Amount": 11715,
+    "Note": "szabszoba",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "33765138-d7e7-4107-9632-06e2b3cbc062",
+    "Amount": 785,
+    "Note": "aldi",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "7dc5171f-3054-4e3d-8438-3e6b452f6ac8",
+    "Amount": 469,
+    "Note": "havi csomagd\u00EDj",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "fc2c4f3d-767c-4eb7-87fc-114f3de4ab58",
+    "Amount": 170,
+    "Note": "id\u0151szakos ktg",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "aaa163c9-13b1-4caa-b5d3-0cf16986e05e",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Fun",
+    "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "008854e3-3111-4cba-abb1-5cfe20150bb1",
+    "Amount": 1038,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-08-31T12:19:43.846"
   }
 ]
