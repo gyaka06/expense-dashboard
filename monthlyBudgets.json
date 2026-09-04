@@ -33,5 +33,12 @@
     "SavingsBudget": 247593,
     "FunBudget": 200000,
     "LivingBudget": 200000
+  },
+  {
+    "Year": 2026,
+    "Month": 9,
+    "SavingsBudget": 100,
+    "FunBudget": 100,
+    "LivingBudget": 100
   }
 ]

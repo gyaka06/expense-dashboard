@@ -1589,13 +1589,6 @@
     "Date": "2026-06-30T08:58:09.867"
   },
   {
-    "Id": "996fc865-4949-4fb5-b758-81c0975b5f8a",
-    "Amount": 1181,
-    "Note": "bosch eb\u00E9d",
-    "Budget": "Savings",
-    "Date": "2026-06-30T08:58:09.867"
-  },
-  {
     "Id": "86afef6d-b733-4adb-90e4-0438ec659055",
     "Amount": 798,
     "Note": "aldi",
@@ -2161,5 +2154,26 @@
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
     "Date": "2026-08-31T12:19:43.846"
+  },
+  {
+    "Id": "634f5f61-25b3-483c-84fd-e7072824e2a9",
+    "Amount": 100,
+    "Note": "teszt",
+    "Budget": "Fun",
+    "Date": "2026-09-04T08:13:39.4312296+02:00"
+  },
+  {
+    "Id": "ddfb42bc-225c-400d-ab08-7393b7fc2c9d",
+    "Amount": 100,
+    "Note": "\u00E1tvezet\u00E9s",
+    "Budget": "Living",
+    "Date": "2026-09-04T08:13:39.4312296+02:00"
+  },
+  {
+    "Id": "09daa12c-88b2-4f33-a8d9-f166aff044e1",
+    "Amount": -100,
+    "Note": "\u00E1tvezet\u00E9s",
+    "Budget": "Savings",
+    "Date": "2026-09-04T08:13:39.4312296+02:00"
   }
 ]
