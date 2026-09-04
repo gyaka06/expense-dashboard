@@ -195,7 +195,7 @@ function updateDashboard(year, month) {
 
             allCategories[e.Budget] += e.Amount;
 
-            if (e.Amount > 0) {
+            if (e.Amount > 0 && (!e.Note || e.Note.toLowerCase().includes("átvezetés"))) {
                 if (!categories[e.Budget]) {
                     categories[e.Budget] = 0;
                 }
