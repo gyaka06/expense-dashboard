@@ -210,8 +210,9 @@ function updateDashboard(year, month) {
 
     // currentMonth
     if (d.getFullYear() === year &&
-        d.getMonth() + 1 === month) {
-
+        d.getMonth() + 1 === month &&
+        e.IsAllocation === false) 
+    {
         if (!currentCategories[e.Budget])
             currentCategories[e.Budget] = 0;
 
