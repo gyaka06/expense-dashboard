@@ -4,2176 +4,2487 @@
     "Amount": 600,
     "Note": "reggeli bosch",
     "Budget": "Living",
-    "Date": "2026-04-10T19:37:30.9097878+02:00"
+    "Date": "2026-04-10T19:37:30.9097878+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "2a525089-dbae-44ed-824c-d6ad8e16bc4a",
     "Amount": 1655,
     "Note": "eb\u00E9d bosch",
     "Budget": "Living",
-    "Date": "2026-04-10T19:37:58.6666526+02:00"
+    "Date": "2026-04-10T19:37:58.6666526+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "20aad8d7-ac33-439f-9961-69ebaacebbc6",
     "Amount": 680,
     "Note": "Monster",
     "Budget": "Fun",
-    "Date": "2026-04-10T19:51:03.2627519+02:00"
+    "Date": "2026-04-10T19:51:03.2627519+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "93f5ef02-7333-4b7a-b234-38eec1eeb9af",
     "Amount": 649,
     "Note": "R\u00E1g\u00F3",
     "Budget": "Fun",
-    "Date": "2026-04-10T19:52:08.5796561+02:00"
+    "Date": "2026-04-10T19:52:08.5796561+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "b9001e7e-2aae-49e3-b206-1fa853fb0616",
     "Amount": 3400,
     "Note": "2Gyros",
     "Budget": "Fun",
-    "Date": "2026-04-13T18:46:54.8672164+02:00"
+    "Date": "2026-04-13T18:46:54.8672164+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "ac1214e9-e885-4436-be0f-adadafd4a27e",
     "Amount": 5516,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-04-13T18:47:31.5290456+02:00"
+    "Date": "2026-04-13T18:47:31.5290456+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "4e7c595d-fbba-4688-89f7-50973116fd0b",
     "Amount": 120000,
     "Note": "lakb\u00E9r",
     "Budget": "Living",
-    "Date": "2026-04-13T18:47:48.4361143+02:00"
+    "Date": "2026-04-13T18:47:48.4361143+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "8868e01d-f557-445e-b691-f4fd3e8cdca2",
     "Amount": 550,
     "Note": "keny\u00E9r",
     "Budget": "Living",
-    "Date": "2026-04-14T15:54:29.1881963+02:00"
+    "Date": "2026-04-14T15:54:29.1881963+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "a195f0e7-cb86-4ca2-8c6b-88a2b00b4991",
     "Amount": 2890,
     "Note": "netflix",
     "Budget": "Fun",
-    "Date": "2026-04-14T15:54:42.3692292+02:00"
+    "Date": "2026-04-14T15:54:42.3692292+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "59f66a21-aa6e-4804-a571-fd574a184eb5",
     "Amount": 1055,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-04-14T15:54:54.5454307+02:00"
+    "Date": "2026-04-14T15:54:54.5454307+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "2d078565-ce01-4655-808d-b9947e486fa6",
     "Amount": 1324,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-14T15:55:10.9333152+02:00"
+    "Date": "2026-04-14T15:55:10.9333152+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "68218599-c3a9-42e9-8688-95c6532acaa4",
     "Amount": 1135,
     "Note": "fornetti ",
     "Budget": "Living",
-    "Date": "2026-04-15T13:54:37.5557794+02:00"
+    "Date": "2026-04-15T13:54:37.5557794+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "c6cf63bb-7401-4e2e-baf2-54b6cdcd224a",
     "Amount": 31175,
     "Note": "Niki aji",
     "Budget": "Fun",
-    "Date": "2026-04-15T13:55:03.375034+02:00"
+    "Date": "2026-04-15T13:55:03.375034+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "a8c94d6d-3677-47cf-896c-65ee2ce1aa92",
     "Amount": 8000,
     "Note": "fodr\u00E1sz",
     "Budget": "Fun",
-    "Date": "2026-04-15T13:55:17.1107386+02:00"
+    "Date": "2026-04-15T13:55:17.1107386+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "67033654-775e-4620-937c-013410ee0da0",
     "Amount": 200000,
     "Note": "ciprus",
     "Budget": "Savings",
-    "Date": "2026-04-15T13:55:38.7779553+02:00"
+    "Date": "2026-04-15T13:55:38.7779553+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "3dfa65e8-ddfc-496e-ac58-792559c90706",
     "Amount": 952,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-04-16T11:23:25.4875147+02:00"
+    "Date": "2026-04-16T11:23:25.4875147+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "d1d0bafa-0eaa-4de5-a24c-4bf8ca8b2d37",
     "Amount": 813,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-21T08:54:08.7681389+02:00"
+    "Date": "2026-04-21T08:54:08.7681389+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "5cafc335-6bf8-42ce-ac16-89edb0acf918",
     "Amount": 6190,
     "Note": "yt premium",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:54:22.243458+02:00"
+    "Date": "2026-04-21T08:54:22.243458+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "78397809-0315-4103-8a47-5b752f18e81d",
     "Amount": 4073,
     "Note": "Aldi",
     "Budget": "Living",
-    "Date": "2026-04-21T08:54:37.506075+02:00"
+    "Date": "2026-04-21T08:54:37.506075+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "a60e3a45-ba0c-4672-8a56-72c0b706a494",
     "Amount": 6290,
     "Note": "gaty\u00E1k",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:54:50.2186892+02:00"
+    "Date": "2026-04-21T08:54:50.2186892+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "33be2f67-284f-4e74-8fca-b0fbd7860639",
     "Amount": 1688,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:00.9359804+02:00"
+    "Date": "2026-04-21T08:55:00.9359804+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "5eb7143c-717b-4521-85bb-4173fc68762d",
     "Amount": 1688,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:09.3069854+02:00"
+    "Date": "2026-04-21T08:55:09.3069854+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "bd21b2c3-3274-494b-882c-677a41e459fc",
     "Amount": 1900,
     "Note": "dohi",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:17.1524464+02:00"
+    "Date": "2026-04-21T08:55:17.1524464+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "a6172946-7b97-4e01-afec-7023dc86d2ec",
     "Amount": 1688,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:25.0276652+02:00"
+    "Date": "2026-04-21T08:55:25.0276652+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "65d51a31-2f4a-4c8c-91c3-b2d05d3ca124",
     "Amount": 1688,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:33.9756927+02:00"
+    "Date": "2026-04-21T08:55:33.9756927+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "26f8e5fa-b541-408c-890a-73c00638271f",
     "Amount": 1485,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:55:51.1051634+02:00"
+    "Date": "2026-04-21T08:55:51.1051634+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "49875ccc-f3c6-403c-a681-624836f7c9d0",
     "Amount": 2978,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:00.3833724+02:00"
+    "Date": "2026-04-21T08:56:00.3833724+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "b03779fc-cab2-458a-8692-d7277cab1241",
     "Amount": 1688,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:09.2944261+02:00"
+    "Date": "2026-04-21T08:56:09.2944261+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "7a965237-81b8-4ea4-95ab-a4fd6779d80f",
     "Amount": 1613,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:16.9975382+02:00"
+    "Date": "2026-04-21T08:56:16.9975382+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "f7f3162a-0cb3-407a-b710-ad7d9aaf7998",
     "Amount": 2150,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:24.9696656+02:00"
+    "Date": "2026-04-21T08:56:24.9696656+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "0f396a91-e957-4f96-b9df-90c35fb74b74",
     "Amount": 1485,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:34.5313851+02:00"
+    "Date": "2026-04-21T08:56:34.5313851+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "1341e4f5-60f3-4a50-b1c5-63cf9c817bc3",
     "Amount": 4600,
     "Note": "taxi",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:56:42.5507476+02:00"
+    "Date": "2026-04-21T08:56:42.5507476+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "058a7e5a-a5fc-421b-b5db-b1aaef67ebba",
     "Amount": 6698,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-04-21T08:56:55.1965842+02:00"
+    "Date": "2026-04-21T08:56:55.1965842+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "69d2ced9-68b2-43c7-86b5-d202bef50c41",
     "Amount": 4190,
     "Note": "premier leak",
     "Budget": "Fun",
-    "Date": "2026-04-21T08:57:03.1687586+02:00"
+    "Date": "2026-04-21T08:57:03.1687586+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "aeac0198-53da-41e9-9a34-2fc4e526366d",
     "Amount": 904,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-04-21T08:57:14.5015222+02:00"
+    "Date": "2026-04-21T08:57:14.5015222+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "12e78e2b-03d2-4ad6-bb6b-25b2ba6861e5",
     "Amount": 1348,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-24T08:59:27.8644218+02:00"
+    "Date": "2026-04-24T08:59:27.8644218+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "d59a8f62-44ad-49ba-bff5-a2841f986702",
     "Amount": 410,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-04-24T08:59:40.9903678+02:00"
+    "Date": "2026-04-24T08:59:40.9903678+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "858405f6-8f33-429a-9387-09337e515092",
     "Amount": 800,
     "Note": "foci \u00FCd\u00EDt\u0151",
     "Budget": "Fun",
-    "Date": "2026-04-24T08:59:52.9197178+02:00"
+    "Date": "2026-04-24T08:59:52.9197178+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "6d66f85b-8eac-4a9d-9de3-0d6dc7c919b9",
     "Amount": 5630,
     "Note": "telo sz\u00E1mla",
     "Budget": "Fun",
-    "Date": "2026-04-24T09:00:07.3667725+02:00"
+    "Date": "2026-04-24T09:00:07.3667725+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "180dfd34-4352-4cb7-ae5e-2008a108c417",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-04-24T09:00:32.9385133+02:00"
+    "Date": "2026-04-24T09:00:32.9385133+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "8ca5f8ca-148a-485a-9b7c-86fbb0e07c4f",
     "Amount": 1611,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-24T09:00:43.1216587+02:00"
+    "Date": "2026-04-24T09:00:43.1216587+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "ed5e6b1d-baa6-41e5-a6ab-be5aeebddab3",
     "Amount": 330,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-04-24T09:01:09.1690193+02:00"
+    "Date": "2026-04-24T09:01:09.1690193+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "552fd0a4-cec2-4f0b-8ec8-e05b2b9a6d23",
     "Amount": 399,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-04-24T09:01:23.4890393+02:00"
+    "Date": "2026-04-24T09:01:23.4890393+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "e741ee06-29fa-4201-8850-90f4c33c2974",
     "Amount": 20470,
     "Note": "tankol\u00E1s",
     "Budget": "Fun",
-    "Date": "2026-04-25T22:01:13.0004297+02:00"
+    "Date": "2026-04-25T22:01:13.0004297+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "e2ad74ed-fc24-494c-8f35-0618f96804b8",
     "Amount": 400,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-04-25T22:01:39.3943002+02:00"
+    "Date": "2026-04-25T22:01:39.3943002+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "a0831fcb-5f97-4b96-894b-9960de5daf84",
     "Amount": 19353,
     "Note": "auchan",
     "Budget": "Living",
-    "Date": "2026-04-25T22:01:52.1801258+02:00"
+    "Date": "2026-04-25T22:01:52.1801258+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "35cabc52-f160-447c-8a38-d934b820cf5a",
     "Amount": 12390,
     "Note": "szitak\u00F6t\u0151",
     "Budget": "Fun",
-    "Date": "2026-04-25T22:02:06.8568696+02:00"
+    "Date": "2026-04-25T22:02:06.8568696+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "533ebcd4-28ed-4132-a580-042377d92078",
     "Amount": 1990,
     "Note": "WHSmith",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "cecd87d9-c15a-456b-96ca-cdcb54141dfa",
     "Amount": 2600,
     "Note": "szlad\u00EDj",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "53ee2b5b-505e-4dba-9e7a-438d00ef82ef",
     "Amount": 1476,
     "Note": "mike kiosk",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "27d31da4-7415-44a0-a75b-ee342a4c1519",
     "Amount": 553,
     "Note": "mike kiosk",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "95c36c59-8ccb-44e6-80b2-71e8c694f215",
     "Amount": 501,
     "Note": "king evelton hotel",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "0b19a585-12d0-4d2c-8dac-bba4a76312eb",
     "Amount": 1300,
     "Note": "mike kiosk",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "11fc6ea0-7418-44e5-b3f7-9ec3bea6f7e8",
     "Amount": 1560,
     "Note": "mike kiosk",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "3bdaa14a-ff4c-4f6c-972c-0fbcbec5f2bc",
     "Amount": 966,
     "Note": "\u00E1llatkert",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "f67d3552-e85b-4a58-857c-33bcb79b100d",
     "Amount": 1671,
     "Note": "1671 king evelthon hotel",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "7c9dc081-3c3c-4264-83aa-9b00c2fae695",
     "Amount": 449,
     "Note": "havi csomagd\u00EDj",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "f2f085dc-38ee-414f-b7c0-01f809715fcb",
     "Amount": 165,
     "Note": "id\u0151szakos k\u00F6lts\u00E9gek",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "88674b2a-a4dd-43c0-a64d-56b619c194f8",
     "Amount": 1671,
     "Note": "king evelton hotel",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "d1ea7ebf-b901-4398-8a77-8b0a197cfa0b",
     "Amount": 1980,
     "Note": "king evelton hotel",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "8d76b923-ba40-4b10-b1ec-d47b0d216433",
     "Amount": 1290,
     "Note": "apple",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "b4717c9e-aca5-4b91-9351-1e06cfc71ee9",
     "Amount": 5571,
     "Note": "gyros",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "0fb2ee54-9b6b-4aac-a1bf-0022ff7a0f27",
     "Amount": 557,
     "Note": "souvenir",
     "Budget": "Fun",
-    "Date": "2026-04-26T13:07:58.088"
+    "Date": "2026-04-26T13:07:58.088",
+    "IsAllocation": false
   },
   {
     "Id": "72d8cab7-8a49-418a-aa85-bac2d9bd4ab1",
     "Amount": 45600,
     "Note": "Vir\u00E1g \u002B Zim\u00F3 sz\u00FClinap",
     "Budget": "Fun",
-    "Date": "2026-04-30T08:17:40.382"
+    "Date": "2026-04-30T08:17:40.382",
+    "IsAllocation": false
   },
   {
     "Id": "32d43bc2-4cf4-4500-85c6-471ce01fdbbc",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-04-30T08:33:52.589"
+    "Date": "2026-04-30T08:33:52.589",
+    "IsAllocation": false
   },
   {
     "Id": "63abb61d-052f-42a3-b8cf-347e16eb0ca8",
     "Amount": 2190,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-30T08:33:52.589"
+    "Date": "2026-04-30T08:33:52.589",
+    "IsAllocation": false
   },
   {
     "Id": "ce6a205b-1fbf-48e5-82e6-e4489d4f30c3",
     "Amount": 1697,
     "Note": "uzsonna",
     "Budget": "Living",
-    "Date": "2026-04-30T08:33:52.589"
+    "Date": "2026-04-30T08:33:52.589",
+    "IsAllocation": false
   },
   {
     "Id": "52cc0eac-b0ed-4de8-9dea-9ff10b006d29",
     "Amount": 7020,
     "Note": "taxi",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "88f1f09e-0401-4a98-a962-aae660c3d904",
     "Amount": 1127,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "e8c33f45-1631-4511-96b2-eb909c9a9081",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "74e6d754-3876-4842-8d8d-ddf4f3669ee6",
     "Amount": 5607,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "e2a9bbe8-b4e1-4a3c-a8c4-e8d8cee7942c",
     "Amount": 8010,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "c57b8bb9-cda4-46bb-8ff5-440b6d3c7233",
     "Amount": 4673,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-04-29T12:51:39.553"
+    "Date": "2026-04-29T12:51:39.553",
+    "IsAllocation": false
   },
   {
     "Id": "74efcbbc-fb9d-44e2-a50d-63e11a04f4cc",
     "Amount": 147000,
     "Note": "lakb\u00E9r \u002B bev\u00E1s\u00E1rl\u00E1s",
     "Budget": "Living",
-    "Date": "2026-05-12T08:27:39.481586+02:00"
+    "Date": "2026-05-12T08:27:39.481586+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "b71ec370-6683-4852-9b38-e7739ec4e4e2",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-12T08:27:39.481586+02:00"
+    "Date": "2026-05-12T08:27:39.481586+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "75c26740-0979-4bda-b357-447946be3009",
     "Amount": 475,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-19T08:22:25.8593531+02:00"
+    "Date": "2026-05-19T08:22:25.8593531+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "d8817b96-9ca2-4c44-9c51-2b3ecb5325b5",
     "Amount": 5630,
     "Note": "telefon sz\u00E1mla",
     "Budget": "Fun",
-    "Date": "2026-05-19T08:22:25.8593531+02:00"
+    "Date": "2026-05-19T08:22:25.8593531+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "cdfaa7a6-0313-47c1-86e7-eacdee6e32f0",
     "Amount": 6190,
     "Note": "yt prem",
     "Budget": "Fun",
-    "Date": "2026-05-19T08:22:25.8593531+02:00"
+    "Date": "2026-05-19T08:22:25.8593531+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "08656f78-ca23-46fe-8954-5d61a016edbd",
     "Amount": 6045,
     "Note": "Aldi",
     "Budget": "Living",
-    "Date": "2026-05-16T08:22:25.859"
+    "Date": "2026-05-16T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "c7c05c1c-46ff-4826-890d-7034b531b692",
     "Amount": 1659,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-05-12T08:22:25.859"
+    "Date": "2026-05-12T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "614a98e6-ff39-4247-914d-69d26833a8d6",
     "Amount": 3190,
     "Note": "Netflix",
     "Budget": "Fun",
-    "Date": "2026-05-14T08:22:25.859"
+    "Date": "2026-05-14T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "20ce1caa-62f2-4ee7-9bac-58ee7fb8362d",
     "Amount": 475,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-14T08:22:25.859"
+    "Date": "2026-05-14T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "909d5972-4713-42fe-99fd-6427313c198b",
     "Amount": 920,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-05-14T08:22:25.859"
+    "Date": "2026-05-14T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "9282fb90-8571-49ee-9dd0-a8006727852b",
     "Amount": 6512,
     "Note": "Auchan",
     "Budget": "Living",
-    "Date": "2026-05-14T08:22:25.859"
+    "Date": "2026-05-14T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "4c331530-0ca2-4266-80f1-8c5d3816225d",
     "Amount": 1900,
     "Note": "dohi",
     "Budget": "Fun",
-    "Date": "2026-05-14T08:22:25.859"
+    "Date": "2026-05-14T08:22:25.859",
+    "IsAllocation": false
   },
   {
     "Id": "9375ed9c-a260-4ab2-9765-08b320f2a728",
     "Amount": 475,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-19T08:03:11.297"
+    "Date": "2026-05-19T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "da20ab7c-ae2d-45ba-82ab-91d29e5cc308",
     "Amount": 410,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-05-19T08:03:11.297"
+    "Date": "2026-05-19T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "a479a66d-6ce8-4172-9b04-9a22661ab486",
     "Amount": 800,
     "Note": "sport ital",
     "Budget": "Fun",
-    "Date": "2026-05-19T08:03:11.297"
+    "Date": "2026-05-19T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "c0eca11e-151c-44f0-960c-37df5dbb58a0",
     "Amount": 4190,
     "Note": "premier leak",
     "Budget": "Fun",
-    "Date": "2026-05-19T08:03:11.297"
+    "Date": "2026-05-19T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "3df788e1-b84c-407b-acaa-36d4ffdc0b24",
     "Amount": 6030,
     "Note": "burger king",
     "Budget": "Fun",
-    "Date": "2026-05-20T08:03:11.297"
+    "Date": "2026-05-20T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "f0309dba-cdeb-42f1-84c0-0878335d113d",
     "Amount": 3675,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-20T08:03:11.297"
+    "Date": "2026-05-20T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "c9e3a6d8-a4ef-4a88-963e-850d90eca7d4",
     "Amount": 1300,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-20T08:03:11.297"
+    "Date": "2026-05-20T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "2090efa0-d590-456b-a55d-fb0861f8bc18",
     "Amount": 761,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-20T08:03:11.297"
+    "Date": "2026-05-20T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "54a7a2c5-d94f-4bb5-a4f8-d4a9aa524f96",
     "Amount": 1928,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-21T08:03:11.297"
+    "Date": "2026-05-21T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "80121cc5-429e-4e22-b508-eb62392811fe",
     "Amount": 4132,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-05-21T08:03:11.297"
+    "Date": "2026-05-21T08:03:11.297",
+    "IsAllocation": false
   },
   {
     "Id": "0be74fc9-f71c-448f-86c3-f2d68ae3a20d",
     "Amount": 4816,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-22T13:38:02.701"
+    "Date": "2026-05-22T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "3d90d1a7-0896-4eaf-9e45-53df9cf493bb",
     "Amount": 1900,
     "Note": "dohi",
     "Budget": "Fun",
-    "Date": "2026-05-22T13:38:02.701"
+    "Date": "2026-05-22T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "6570baff-1a11-451c-862f-66c9994d813a",
     "Amount": 2228,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-22T13:38:02.701"
+    "Date": "2026-05-22T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "383e2cf5-c64b-4fc5-8272-b5c857ffa72f",
     "Amount": 1463,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-22T13:38:02.701"
+    "Date": "2026-05-22T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "777498a4-0860-4126-9ee6-58060e08f955",
     "Amount": 5590,
     "Note": "taxi",
     "Budget": "Fun",
-    "Date": "2026-05-22T13:38:02.701"
+    "Date": "2026-05-22T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "d2bfceeb-1ef8-45bd-83df-1cd01ceedea5",
     "Amount": 6650,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-05-23T13:38:02.701"
+    "Date": "2026-05-23T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "ee227226-4059-4838-be02-fcbacb364086",
     "Amount": 5550,
     "Note": "matrica",
     "Budget": "Fun",
-    "Date": "2026-05-24T13:38:02.701"
+    "Date": "2026-05-24T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "adea70ab-88d0-411d-ab5c-3d0c696158c1",
     "Amount": 22207,
     "Note": "tankol\u00E1s",
     "Budget": "Fun",
-    "Date": "2026-05-24T13:38:02.701"
+    "Date": "2026-05-24T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "9bec8f00-1df2-4417-b61a-a13dba0214f6",
     "Amount": 800,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-05-24T13:38:02.701"
+    "Date": "2026-05-24T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "e8fdcffb-d2da-4ca2-95a4-f4eb923cff22",
     "Amount": 690,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-26T13:38:02.701"
+    "Date": "2026-05-26T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "604e6066-fe06-494d-9041-5dd5e9280b11",
     "Amount": 15000,
     "Note": "s\u00FAlyad\u00F3",
     "Budget": "Fun",
-    "Date": "2026-05-26T13:38:02.701"
+    "Date": "2026-05-26T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "38ea4b9a-cbca-4ab5-ae64-fe98d8103a73",
     "Amount": 1253,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-05-26T13:38:02.701"
+    "Date": "2026-05-26T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "a54578ab-5b79-4c4f-bd6c-47a8d06e07fe",
     "Amount": 382,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-27T13:38:02.701"
+    "Date": "2026-05-27T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "6cc6de20-f429-4b66-8c3e-e07d7248477c",
     "Amount": 495,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-05-27T13:38:02.701"
+    "Date": "2026-05-27T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "949c5ed0-6557-4f50-9ff1-5b090a43f4f2",
     "Amount": -7000,
     "Note": "Niki \u00E1tutal\u00E1s",
     "Budget": "Fun",
-    "Date": "2026-05-27T13:38:02.701"
+    "Date": "2026-05-27T13:38:02.701",
+    "IsAllocation": false
   },
   {
     "Id": "4af7934d-000e-43b1-8dab-aa807d209499",
     "Amount": 1680,
     "Note": "kinai",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "2eabc4f6-8cc2-410f-ad19-4153d6f2e50a",
     "Amount": 8000,
     "Note": "fodr\u00E1sz",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "a0ecbf6a-4e73-4893-86c5-a5e5ebe11fd6",
     "Amount": 3600,
     "Note": "sekiz",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "744f3dce-dab8-469e-a9f5-c3c971bb1138",
     "Amount": 5670,
     "Note": "alphazoo",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "447f6418-0a21-4231-af61-f4088034f3ae",
     "Amount": 1360,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "9b789afd-38ef-4c05-bd9d-ccb4cac7bafa",
     "Amount": 4744,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "4c1f6ab7-1d37-47c6-9c9c-1894e5a8b2ba",
     "Amount": 2933,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-05-28T09:24:43.997"
+    "Date": "2026-05-28T09:24:43.997",
+    "IsAllocation": false
   },
   {
     "Id": "b6ac4fd0-e622-44b4-9f94-6d9cb495956a",
     "Amount": 18000,
     "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9g",
     "Budget": "Living",
-    "Date": "2026-05-29T07:59:16.732"
+    "Date": "2026-05-29T07:59:16.732",
+    "IsAllocation": false
   },
   {
     "Id": "ef82dd70-7a4d-46eb-b1c2-0bd0a2773070",
     "Amount": 2000,
     "Note": "cloverpit",
     "Budget": "Living",
-    "Date": "2026-05-31T08:56:36.443"
+    "Date": "2026-05-31T08:56:36.443",
+    "IsAllocation": false
   },
   {
     "Id": "55b5b501-289f-4cc4-a6d9-8ccae76cc394",
     "Amount": 4450,
     "Note": "portal tok",
     "Budget": "Fun",
-    "Date": "2026-05-31T12:50:28.716"
+    "Date": "2026-05-31T12:50:28.716",
+    "IsAllocation": false
   },
   {
     "Id": "c0482690-2762-4502-8329-a3727976c6b4",
     "Amount": 410,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-31T12:50:28.716"
+    "Date": "2026-05-31T12:50:28.716",
+    "IsAllocation": false
   },
   {
     "Id": "bda14777-3399-46c2-8d4a-dd79bad54ea3",
     "Amount": 1267,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-31T12:50:28.716"
+    "Date": "2026-05-31T12:50:28.716",
+    "IsAllocation": false
   },
   {
     "Id": "e96b74d1-4669-457b-abea-6f607cd2c4c1",
     "Amount": 330,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-05-31T12:50:28.716"
+    "Date": "2026-05-31T12:50:28.716",
+    "IsAllocation": false
   },
   {
     "Id": "42e53bcf-b8e3-48a7-b6cb-1ba66bb462e9",
     "Amount": 3544,
     "Note": "Niki gy\u00F3gyszer",
     "Budget": "Fun",
-    "Date": "2026-05-31T08:27:10.418"
+    "Date": "2026-05-31T08:27:10.418",
+    "IsAllocation": false
   },
   {
     "Id": "49a1962c-548d-413b-abf1-82b3a67fcc74",
     "Amount": 4171,
     "Note": "Aldi",
     "Budget": "Fun",
-    "Date": "2026-05-31T08:27:10.418"
+    "Date": "2026-05-31T08:27:10.418",
+    "IsAllocation": false
   },
   {
     "Id": "3cb1cc67-9fe2-41c2-b16e-06b4874f08bf",
     "Amount": 450,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "cbd5f416-78ce-471d-bad6-8af58356fbef",
     "Amount": 1229,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "37d8232a-6a00-4fe7-92a4-edde2bc1463d",
     "Amount": 121,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "1e1481c2-26bb-4f3e-82c1-0f4f88422098",
     "Amount": 1999,
     "Note": "telotok",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "5bb8cbc4-739f-47a7-b79b-4df4a22f25e3",
     "Amount": 9030,
     "Note": "a38",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "6d006b96-af17-42cd-b7aa-96a219b9fc48",
     "Amount": 10868,
     "Note": "a38",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "c0d6de40-90e4-43f3-a522-bccf62aa887c",
     "Amount": 9146,
     "Note": "a38",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "076e1a02-72e9-47c4-8db3-37189610beee",
     "Amount": 1010,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:13:36.154"
+    "Date": "2026-05-30T09:13:36.154",
+    "IsAllocation": false
   },
   {
     "Id": "6969b5df-bf7e-4488-bc9a-57e0fcda59bc",
     "Amount": 2190,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "bad4a982-8527-4ba9-957a-58bc2ddf44eb",
     "Amount": 255326,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "ae1c9b9a-2af5-4178-ab20-e4e10f285e22",
     "Amount": 620,
     "Note": "parkol\u00E1s",
     "Budget": "Fun",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "1cea1900-37b5-4930-9525-dc50ad6c827f",
     "Amount": 4500,
     "Note": "balcsi",
     "Budget": "Fun",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "1b603fe7-c61f-4a73-8203-0e15f1f30085",
     "Amount": 1595,
     "Note": "netflix",
     "Budget": "Fun",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "bcd2c49e-4ed4-4a65-bcde-905932c93ffa",
     "Amount": 2000,
     "Note": "tippmix",
     "Budget": "Fun",
-    "Date": "2026-05-30T08:04:41.667"
+    "Date": "2026-05-30T08:04:41.667",
+    "IsAllocation": false
   },
   {
     "Id": "fb14e597-69c2-4ff8-8171-c33c072e4bb0",
     "Amount": 600,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "8433d839-0880-458d-a737-30b9a7336da4",
     "Amount": 1516,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "399d64a6-fd4a-40d1-b50c-3ba35d3791eb",
     "Amount": 6190,
     "Note": "yt pr\u00E9mium",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "231c72f4-6cfb-4354-a133-4430db37ff6e",
     "Amount": 1800,
     "Note": "sekiz",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "09cd6b21-a796-4eb2-809e-3e60fc384f61",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "07db49e6-457e-4686-9d03-afb65c5b9331",
     "Amount": 1220,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "06ea45e4-6ac3-4770-831d-c91adced78d9",
     "Amount": 4273,
     "Note": "Lidl",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "b7f71fbe-d3f2-4f30-970e-4e6652523961",
     "Amount": 4190,
     "Note": "leak",
     "Budget": "Fun",
-    "Date": "2026-05-30T09:59:33.588"
+    "Date": "2026-05-30T09:59:33.588",
+    "IsAllocation": false
   },
   {
     "Id": "ce11ab40-e1da-4a1d-8bf9-efa6e645e34e",
     "Amount": 15990,
     "Note": "Zara",
     "Budget": "Living",
-    "Date": "2026-06-19T10:02:09.504"
+    "Date": "2026-06-19T10:02:09.504",
+    "IsAllocation": false
   },
   {
     "Id": "7d84fcaf-9343-4d80-b7b2-654b43415948",
     "Amount": 11807,
     "Note": "Lidl",
     "Budget": "Living",
-    "Date": "2026-06-19T10:02:09.504"
+    "Date": "2026-06-19T10:02:09.504",
+    "IsAllocation": false
   },
   {
     "Id": "005515c7-985d-4096-8048-835f014f4216",
     "Amount": 194674,
     "Note": "laptop",
     "Budget": "Savings",
-    "Date": "2026-05-30T14:35:24.657"
+    "Date": "2026-05-30T14:35:24.657",
+    "IsAllocation": false
   },
   {
     "Id": "8b9fcb4a-d257-4944-89a8-cd065f187f89",
     "Amount": 1000,
     "Note": "padel labda",
     "Budget": "Fun",
-    "Date": "2026-06-21T14:35:58.636"
+    "Date": "2026-06-21T14:35:58.636",
+    "IsAllocation": false
   },
   {
     "Id": "e034f415-bffb-4815-99fe-f7fb17aec921",
     "Amount": 900,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-23T14:35:58.636"
+    "Date": "2026-06-23T14:35:58.636",
+    "IsAllocation": false
   },
   {
     "Id": "5ade0c3b-39ef-442a-be38-61356c940dd1",
     "Amount": 804,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-23T14:35:58.636"
+    "Date": "2026-06-23T14:35:58.636",
+    "IsAllocation": false
   },
   {
     "Id": "bda4e591-5fa9-4f9a-b1ff-fcf483a7b847",
     "Amount": 540,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-06-23T14:35:58.636"
+    "Date": "2026-06-23T14:35:58.636",
+    "IsAllocation": false
   },
   {
     "Id": "3ba11e99-5ca3-4dd4-a847-bc8017a28048",
     "Amount": 400,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-06-24T14:35:58.636"
+    "Date": "2026-06-24T14:35:58.636",
+    "IsAllocation": false
   },
   {
     "Id": "57bf3d64-b214-4eee-ad5f-f8b4367873fb",
     "Amount": 399,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-06-25T18:22:12.1594422+02:00"
+    "Date": "2026-06-25T18:22:12.1594422+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "3626bc97-086d-4c24-923f-c032c1d6ae0d",
     "Amount": 450,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-25T18:22:12.1594422+02:00"
+    "Date": "2026-06-25T18:22:12.1594422+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "be160ff0-bcc5-4176-b469-953a95214ffd",
     "Amount": 1253,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-25T18:22:12.1594422+02:00"
+    "Date": "2026-06-25T18:22:12.1594422+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "709743d7-469d-4b94-9641-461ae5dde300",
     "Amount": 2042,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-06-25T18:22:12.1594422+02:00"
+    "Date": "2026-06-25T18:22:12.1594422+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "e841383b-c023-455f-af52-787833d068e0",
     "Amount": 5630,
     "Note": "flottakezel\u00E9s d\u00EDj",
     "Budget": "Fun",
-    "Date": "2026-06-25T18:22:12.1594422+02:00"
+    "Date": "2026-06-25T18:22:12.1594422+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "9a618867-27e9-404a-94c9-8a2b19a62baa",
     "Amount": 291,
     "Note": "parkol\u00E1s",
     "Budget": "Living",
-    "Date": "2026-05-31T10:45:02.918"
+    "Date": "2026-05-31T10:45:02.918",
+    "IsAllocation": false
   },
   {
     "Id": "4cef0f1a-8f2f-47f3-a42c-fa292e8a2d7e",
     "Amount": 26276,
     "Note": "tankol\u00E1s",
     "Budget": "Fun",
-    "Date": "2026-06-27T10:45:37.912"
+    "Date": "2026-06-27T10:45:37.912",
+    "IsAllocation": false
   },
   {
     "Id": "1377946f-14eb-4ef5-9962-6eaaaa330fab",
     "Amount": 5216,
     "Note": "Aldi",
     "Budget": "Fun",
-    "Date": "2026-05-31T10:11:59.097"
+    "Date": "2026-05-31T10:11:59.097",
+    "IsAllocation": false
   },
   {
     "Id": "a431a1d0-d0ff-4072-8041-8abfd11b48b6",
     "Amount": 8939,
     "Note": "Aldi",
     "Budget": "Living",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "36a83685-11de-40ff-80e3-bb387aece973",
     "Amount": 449,
     "Note": "havi csomagd\u00EDj",
     "Budget": "Fun",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "ccc4c4fc-75f1-4067-8c19-513ed69c6f23",
     "Amount": 165,
     "Note": "id\u0151szakos k\u00F6lts\u00E9gek",
     "Budget": "Fun",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "934aea48-8c41-438a-a696-66e0b8309ae1",
     "Amount": 8000,
     "Note": "fodr\u00E1sz",
     "Budget": "Fun",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "c13c9c26-16e7-4edd-934f-ae5b3deadfd1",
     "Amount": 1290,
     "Note": "Vodi\u00E1n",
     "Budget": "Fun",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "d14998d5-5845-4e99-93a5-3b98ccd44da5",
     "Amount": 925,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-06-30T10:12:30.412"
+    "Date": "2026-06-30T10:12:30.412",
+    "IsAllocation": false
   },
   {
     "Id": "396f4801-64d9-450b-9175-29298ce2a85f",
     "Amount": 100000,
     "Note": "laptop",
     "Budget": "Fun",
-    "Date": "2026-06-26T10:17:51.506"
+    "Date": "2026-06-26T10:17:51.506",
+    "IsAllocation": false
   },
   {
     "Id": "127dea65-1cb3-4c1e-ad75-a920e032e0e9",
     "Amount": 7700,
     "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
     "Budget": "Fun",
-    "Date": "2026-06-30T19:00:54.417"
+    "Date": "2026-06-30T19:00:54.417",
+    "IsAllocation": false
   },
   {
     "Id": "d26fd760-e1b9-4131-904a-b8a0e86498ac",
     "Amount": 1346,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "0df95c9e-5c8b-4605-bab3-144ec085a487",
     "Amount": 1720,
     "Note": "bosch desszert",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "6b1e41bf-9ae0-40d8-8129-d21ed684cefa",
     "Amount": 3880,
     "Note": "alpha zoo",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "69004c68-fa95-4694-81bf-914f48409183",
     "Amount": 11187,
     "Note": "lidl",
     "Budget": "Living",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "6339a90c-ce34-41c2-a309-300ab1cf2970",
     "Amount": 800,
     "Note": "waitless",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "98753c22-3bdc-4ff6-9e0c-371d10fd167e",
     "Amount": 7715,
     "Note": "bauhaus",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "b9378280-09f9-445c-81aa-5327c2c0c597",
     "Amount": 1699,
     "Note": "luna \u00E9lelmiszer",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "51d6ebfd-c5a6-414e-9720-9b3c8ad376d1",
     "Amount": 10000,
     "Note": "fm26",
     "Budget": "Fun",
-    "Date": "2026-06-30T15:48:36.55"
+    "Date": "2026-06-30T15:48:36.55",
+    "IsAllocation": false
   },
   {
     "Id": "c58ab760-c48d-4e58-b62a-47c77f1e1c9e",
     "Amount": 6700,
     "Note": "mozi",
     "Budget": "Fun",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "037453a5-3a73-42a0-9645-23ab4e1cd161",
     "Amount": 1167,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "6558a907-853f-468e-b0a9-59b7fea66748",
     "Amount": 765,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "7f9bbcaa-3545-497c-97f8-8b3099c8e6bd",
     "Amount": 1680,
     "Note": "k\u00EDnai",
     "Budget": "Fun",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "049e51a8-f68b-4de3-8240-becba60e8c42",
     "Amount": 10181,
     "Note": "a38",
     "Budget": "Fun",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "aebe3b5e-e0e1-4071-be02-e87f28d4a8c0",
     "Amount": 8640,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "b8723df5-2198-4dcb-99cf-4b1c62e9774d",
     "Amount": 1775,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "98feb8cf-fc83-4a89-a7b7-0d0cfb333605",
     "Amount": 8789,
     "Note": "a38",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "fa1f7f67-0b38-4d39-930d-e79135a9e83d",
     "Amount": 200,
     "Note": "ponton",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "91fa889d-0212-4118-9752-30ec89df680b",
     "Amount": 200,
     "Note": "ponton",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "38879809-7a48-47e8-a77e-3e6348f8af03",
     "Amount": 4000,
     "Note": "r\u00F3zsa",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "9ca65036-6cdc-4817-bf51-2ea5559e8233",
     "Amount": 4899,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "5ca618c1-5e46-4c38-9723-5eab08f9aa54",
     "Amount": 695,
     "Note": "patika",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "d084e03d-39a7-482e-bb9e-15475d349247",
     "Amount": 1715,
     "Note": "lidl",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "5bde9ce4-42e8-4e16-aea4-955d05be864f",
     "Amount": 1850,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "5e05994c-1e64-49b9-999c-7f4809dab350",
     "Amount": 2000,
     "Note": "dohi",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "4a65312a-6cef-4bbe-948f-4772ebe703b0",
     "Amount": 1512,
     "Note": "otp \u00FCzenetd\u00EDj",
     "Budget": "Living",
-    "Date": "2026-06-30T08:33:56.951"
+    "Date": "2026-06-30T08:33:56.951",
+    "IsAllocation": false
   },
   {
     "Id": "1a32f8b0-2371-41e3-976f-4efa44720ccf",
     "Amount": 3190,
     "Note": "netflix",
     "Budget": "Living",
-    "Date": "2026-06-30T08:23:12.464"
+    "Date": "2026-06-30T08:23:12.464",
+    "IsAllocation": false
   },
   {
     "Id": "f1bfbc86-e206-4651-afd9-ed00d1900ef6",
     "Amount": 770,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-06-30T08:23:12.464"
+    "Date": "2026-06-30T08:23:12.464",
+    "IsAllocation": false
   },
   {
     "Id": "5d3d74bf-e1d8-411f-b808-04fc2c7b25f0",
     "Amount": 1631,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T08:23:12.464"
+    "Date": "2026-06-30T08:23:12.464",
+    "IsAllocation": false
   },
   {
     "Id": "25606944-f918-4f9c-abba-5427fdb4c25c",
     "Amount": 1900,
     "Note": "dohi",
     "Budget": "Living",
-    "Date": "2026-06-30T08:23:12.464"
+    "Date": "2026-06-30T08:23:12.464",
+    "IsAllocation": false
   },
   {
     "Id": "6422f42a-8319-4c6c-b9d8-198986eab0c3",
     "Amount": 737,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:23:12.464"
+    "Date": "2026-06-30T08:23:12.464",
+    "IsAllocation": false
   },
   {
     "Id": "180e1358-93c3-4c40-888a-6ab15daec20a",
     "Amount": 2190,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "b1556abd-23e7-464c-8461-fc3584b3ff15",
     "Amount": 3238,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "ffa5f276-4dfa-4d05-88e0-f68c7315bc45",
     "Amount": 6190,
     "Note": "yt pr\u00E9mium",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "13b4e886-82ef-4386-9b9e-390662e06517",
     "Amount": 3600,
     "Note": "sekiz",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "0beeb9e7-7573-4051-b281-209519424d40",
     "Amount": 2649,
     "Note": "obi",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "aaa4ad92-a8b0-4e0c-8d20-677e7e966c34",
     "Amount": 2400,
     "Note": "jysk",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "9afe01ad-e42a-44bb-968e-ed5b20280f86",
     "Amount": 4190,
     "Note": "leak",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "fb12e532-d3d6-4ae3-a861-4859e7669085",
     "Amount": 7820,
     "Note": "gimis tali",
     "Budget": "Living",
-    "Date": "2026-06-30T09:12:54.055"
+    "Date": "2026-06-30T09:12:54.055",
+    "IsAllocation": false
   },
   {
     "Id": "b8990de0-f7dc-4292-932d-bba031731835",
     "Amount": 1000,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:21:27.39"
+    "Date": "2026-06-30T08:21:27.39",
+    "IsAllocation": false
   },
   {
     "Id": "7bc92344-709b-4f04-aca8-8d7a1f066ee2",
     "Amount": 620,
     "Note": "bosch k\u00E1v\u00E9",
     "Budget": "Living",
-    "Date": "2026-06-30T08:21:27.39"
+    "Date": "2026-06-30T08:21:27.39",
+    "IsAllocation": false
   },
   {
     "Id": "5dc6fa9a-7762-4a03-9bda-21a86811ada8",
     "Amount": 2120,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T08:21:27.39"
+    "Date": "2026-06-30T08:21:27.39",
+    "IsAllocation": false
   },
   {
     "Id": "659d6166-c49d-4cfb-b694-7459870263ab",
     "Amount": 240,
     "Note": "bosch csoki",
     "Budget": "Living",
-    "Date": "2026-06-30T08:21:27.39"
+    "Date": "2026-06-30T08:21:27.39",
+    "IsAllocation": false
   },
   {
     "Id": "410803c9-72f6-4bf0-b996-0b6321b4169c",
     "Amount": 12417,
     "Note": "telo sz\u00E1mla",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "e8f1a200-6d3a-4bbd-adbc-92df0cc0e376",
     "Amount": 9677,
     "Note": "Lidl",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "a5a0a560-0e7e-4dfb-8433-3cd209970e04",
     "Amount": 13000,
     "Note": "tankol\u00E1s",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "0000878e-4874-4ba8-ad61-c7eb169c46d4",
     "Amount": 399,
     "Note": "apple cloud",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "0a4b44eb-e4fb-4dd4-9560-047f56af63c9",
     "Amount": 399,
     "Note": "apple cloud mama",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "9f6b7ee4-732e-45c5-9a9b-5ade1873c2a5",
     "Amount": 3269,
     "Note": "\u00E9rt\u00E9kpap\u00EDr sz\u00E1mlad\u00EDj",
     "Budget": "Living",
-    "Date": "2026-06-30T07:51:18.776"
+    "Date": "2026-06-30T07:51:18.776",
+    "IsAllocation": false
   },
   {
     "Id": "4211f050-2a22-4e4e-a368-22fd10a49cf6",
     "Amount": 108000,
     "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
     "Budget": "Living",
-    "Date": "2026-07-27T07:53:50.2453452+02:00"
+    "Date": "2026-07-27T07:53:50.2453452+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "9608a2d2-ff8c-4fe9-8713-c387dff4ec7b",
     "Amount": 600,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "fcaa63cd-1953-491e-adc0-adcbecb570e9",
     "Amount": 645,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "0ceffd7d-627a-4883-a3bb-fac7fcb15680",
     "Amount": 450,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "41da5204-30d6-4a01-944f-7ab12975344c",
     "Amount": 1348,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "7df70c99-1192-48c3-a776-d3f19b14471b",
     "Amount": 2198,
     "Note": "spar",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "34f6b71a-d266-4999-b865-9a657055a4c8",
     "Amount": 2095,
     "Note": "barack hamika",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "43eee063-a289-45b2-b4a3-5854d0f1b0bd",
     "Amount": 450,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "86afef6d-b733-4adb-90e4-0438ec659055",
     "Amount": 798,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-06-30T08:58:09.867"
+    "Date": "2026-06-30T08:58:09.867",
+    "IsAllocation": false
   },
   {
     "Id": "7c26d5f3-2c0f-4670-838c-7d010fa79055",
     "Amount": 3880,
     "Note": "burger",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "640b7875-fdfd-46c3-9aa9-d065f85c79a2",
     "Amount": 469,
     "Note": "havi csomagd\u00EDj",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "bc77c7c1-86ac-4781-bca1-41a8e58bd395",
     "Amount": 168,
     "Note": "id\u0151szakos k\u00F6lts\u00E9g",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "0d11ccf9-5dda-4228-8b5a-fddf2854be49",
     "Amount": 1200,
     "Note": "kocsi mos\u00E1s",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "d0372bf6-dcc6-4c45-83fb-384704e6062d",
     "Amount": 1290,
     "Note": "vodi\u00E1n",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "fa906106-e723-4ef9-9f04-5dd3b83e1eee",
     "Amount": 10650,
     "Note": "auchan",
     "Budget": "Living",
-    "Date": "2026-06-30T08:19:52.454"
+    "Date": "2026-06-30T08:19:52.454",
+    "IsAllocation": false
   },
   {
     "Id": "90b2cfe0-126c-42f6-b948-6f02cbbca192",
     "Amount": 21900,
     "Note": "fogk\u0151",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:23:38.15"
+    "Date": "2026-07-31T08:23:38.15",
+    "IsAllocation": false
   },
   {
     "Id": "98285065-d7c5-4199-8a87-896b9a9034ca",
     "Amount": 1500,
     "Note": "pokemon",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:23:38.15"
+    "Date": "2026-07-31T08:23:38.15",
+    "IsAllocation": false
   },
   {
     "Id": "737b314f-1975-4116-b1bc-91adeedcab3c",
     "Amount": 980,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "1bd574f6-f0b3-495d-853a-b796dcb7fa4b",
     "Amount": 610,
     "Note": "bosch kaja",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "191bc2e4-c358-4a75-b235-08a2950a73bf",
     "Amount": 600,
     "Note": "bosch kaja",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "4e3d59ae-51c1-4b30-9a83-f13f57bd86d9",
     "Amount": 410,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "1a46d33f-51a0-4d36-b4c4-9c69679fcd50",
     "Amount": 1482,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "221398ca-7c20-49dc-a368-ccf238e39be3",
     "Amount": 550,
     "Note": "bosch b\u00FCf\u00E9",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "efa66e57-916a-4f5d-9ba4-cd76080b5e30",
     "Amount": 560,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "899bb87c-2945-44a5-af63-353a9bccc91d",
     "Amount": 173860,
     "Note": "k\u00F6lts\u00E9g \u00E1tvezet\u00E9s",
     "Budget": "Fun",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "eb2f3774-0bd6-429d-87b8-205566ba20c9",
     "Amount": -173860,
     "Note": "k\u00F6lts\u00E9g \u00E1tvezet\u00E9s",
     "Budget": "Savings",
-    "Date": "2026-07-31T08:54:45.884"
+    "Date": "2026-07-31T08:54:45.884",
+    "IsAllocation": false
   },
   {
     "Id": "559282a1-5a48-4ade-a869-a6ab3acce09a",
     "Amount": 1822,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-07-31T08:15:51.974"
+    "Date": "2026-07-31T08:15:51.974",
+    "IsAllocation": false
   },
   {
     "Id": "ac85df40-197e-4563-a801-5c78738c9e58",
     "Amount": 3300,
     "Note": "aldi",
     "Budget": "Living",
-    "Date": "2026-07-31T08:24:13.22"
+    "Date": "2026-07-31T08:24:13.22",
+    "IsAllocation": false
   },
   {
     "Id": "73256446-1260-4f26-8631-fced01a74b74",
     "Amount": 8000,
     "Note": "fodr\u00E1sz",
     "Budget": "Living",
-    "Date": "2026-07-31T08:24:13.22"
+    "Date": "2026-07-31T08:24:13.22",
+    "IsAllocation": false
   },
   {
     "Id": "337069f4-73b7-43bf-8e70-9e44bf890066",
     "Amount": 1599,
     "Note": "r\u00F3zsa",
     "Budget": "Living",
-    "Date": "2026-07-31T08:24:13.22"
+    "Date": "2026-07-31T08:24:13.22",
+    "IsAllocation": false
   },
   {
     "Id": "4190c76f-e5b8-4f7d-9568-0522c5611d60",
     "Amount": 6100,
     "Note": "tesco",
     "Budget": "Living",
-    "Date": "2026-07-31T08:24:13.22"
+    "Date": "2026-07-31T08:24:13.22",
+    "IsAllocation": false
   },
   {
     "Id": "a1ec5036-f85f-4760-8846-f8f4f32931aa",
     "Amount": 990,
     "Note": "sz\u00E9na",
     "Budget": "Living",
-    "Date": "2026-07-31T08:24:13.22"
+    "Date": "2026-07-31T08:24:13.22",
+    "IsAllocation": false
   },
   {
     "Id": "8e033ab3-4cc4-4444-a666-aa7a89cda448",
     "Amount": 107914,
     "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
     "Budget": "Living",
-    "Date": "2026-08-11T08:29:52.5040706+02:00"
+    "Date": "2026-08-11T08:29:52.5040706+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "4d156f52-3d9c-4aee-921d-d51a04dba68f",
     "Amount": 450,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "2121ef37-9abf-492f-a957-3cd0d52eee96",
     "Amount": 1526,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "5f8fd3b7-58c1-485e-bef6-bccd14a89d69",
     "Amount": 4800,
     "Note": "barack kaja",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "52d19da8-e2cf-49bd-b81b-73b220fe7284",
     "Amount": 732,
     "Note": "rept\u00E9r",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "a9e6a69b-94e8-4589-ab06-fb4b6348c3d7",
     "Amount": 114018,
     "Note": "pefanis",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "bf9be470-c809-4866-9e50-357bab0e3933",
     "Amount": 348,
     "Note": "otp",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "2a82ca87-4101-42c8-961b-25f04652c9cd",
     "Amount": 5400,
     "Note": "telefon sz\u00E1mla f\u00E9l\u00E9ves d\u00EDj",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "4da112f0-7b6d-40c4-b2a9-f4e00550ab03",
     "Amount": 3190,
     "Note": "netflix",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "5b2de6d8-5297-4d2f-b2ba-f3119c1a6e2d",
     "Amount": 3196,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "044c49ec-09c8-41a5-998d-76e09be23e0e",
     "Amount": 21303,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "083230bc-6fb4-4355-80d3-e163fb63a036",
     "Amount": 2813,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "362cc0b6-79f7-4a2f-821b-5bcfe4148f2a",
     "Amount": 4367,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "9058df83-7aae-4e34-afec-367dad73c911",
     "Amount": 2813,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "b4b577cc-fe9a-4452-b8ac-24bf120b41dd",
     "Amount": 7346,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "597cc749-b5c8-480f-a0dc-ae31ae68ed96",
     "Amount": 952,
     "Note": "otp \u00FCzenetd\u00EDj",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "921a6a6f-a9c9-4fe8-9d2e-920fdc338b0d",
     "Amount": 11836,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "9c5641b5-0096-4e88-aa52-fd94cef6d5e6",
     "Amount": 5181,
     "Note": "nyaral\u00E1s",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "7734ed8c-4dc1-4ccb-85ce-f6f9bfbef378",
     "Amount": 6190,
     "Note": "yt pr\u00E9mium",
     "Budget": "Living",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "f3dc9789-f80a-44f6-82f8-9641512442a5",
     "Amount": 4190,
     "Note": "leak",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "41e0efaa-434c-4ea8-9209-337ccf1e0fdd",
     "Amount": 9141,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "cb260c5e-d084-4150-8e8e-94aafc2e2178",
     "Amount": 3331,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "0a217581-93e0-4ce2-b024-effd6978c7bb",
     "Amount": 11842,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "4ad13f26-8631-4e98-9669-db0b07953b3e",
     "Amount": 2813,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "06725569-5d88-4184-a413-4e00e7213c45",
     "Amount": 24795,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "39c24a21-ffb7-45bd-82f4-2ec748711c2e",
     "Amount": 5181,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "02237484-8adf-42ba-8ff4-66252ca90cdc",
     "Amount": 12000,
     "Note": "nyaral\u00E1s",
     "Budget": "Savings",
-    "Date": "2026-07-31T10:32:16.324"
+    "Date": "2026-07-31T10:32:16.324",
+    "IsAllocation": false
   },
   {
     "Id": "474f6aee-630c-4bb8-a8c8-18ddbe7587ce",
     "Amount": 1300,
     "Note": "2 monster",
     "Budget": "Fun",
-    "Date": "2026-08-23T10:40:51.6622979+02:00"
+    "Date": "2026-08-23T10:40:51.6622979+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "252b6112-3918-4198-99bb-5a4859f15421",
     "Amount": 5580,
     "Note": "iv\u00E1szat",
     "Budget": "Fun",
-    "Date": "2026-08-23T10:40:51.6622979+02:00"
+    "Date": "2026-08-23T10:40:51.6622979+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "8efc92fb-4991-42a6-87ce-2a56bfcb1e94",
     "Amount": 600,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "8afe3a5f-6af4-49f2-8024-31802593d148",
     "Amount": 400,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "f5ec10fc-7734-4eae-8bae-64b5269e6b85",
     "Amount": 2470,
     "Note": "bosch eb\u00E9d",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "3798efa3-093c-4048-a5ae-dc67c7bfb27b",
     "Amount": 550,
     "Note": "bosch b\u00FCf\u00E9",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "a87ae6a8-e05d-4676-9033-b2d67a5ff47f",
     "Amount": 400,
     "Note": "apple cloud",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "f9a1ce21-73fc-4bb1-ba8d-742c578e83f1",
     "Amount": 6800,
     "Note": "mozi",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "a0c0f546-9b0e-4138-9b78-c4990ed65c87",
     "Amount": 1467,
     "Note": "aldi",
     "Budget": "Fun",
-    "Date": "2026-08-24T15:50:15.132"
+    "Date": "2026-08-24T15:50:15.132",
+    "IsAllocation": false
   },
   {
     "Id": "3870cda2-c314-46ad-a9fa-93f2450b3aef",
     "Amount": 928,
     "Note": "bosch reggeli",
     "Budget": "Living",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "f284e99a-b3fe-420d-853d-3035bd9a68aa",
     "Amount": 1444,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "92c92b2b-fca8-4e38-a2b1-149edbcb83a9",
     "Amount": 1752,
     "Note": "spar",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "da88bc56-125c-4e75-b72e-ee0c5dd4a84d",
     "Amount": 1900,
     "Note": "dohi",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "895974ce-66e8-4c52-a73a-1a280c8dd1dc",
     "Amount": 1875,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "c101d5c7-9d24-4121-9bd5-d5df3fc5648b",
     "Amount": 2250,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "52705d12-673b-4d4a-9225-cbf985d6a516",
     "Amount": 2250,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "33757c3c-013a-4c40-8016-b7c9ac170022",
     "Amount": 990,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "ad481476-0094-4e1e-89d0-5bfb3d61f09c",
     "Amount": 4230,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "92c8bc7f-2955-4cff-a109-578a6a79996f",
     "Amount": 4650,
     "Note": "h\u00E9tker",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "2d9e7981-c2a2-4332-971a-d2bff188af02",
     "Amount": 3900,
     "Note": "hajo",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "65179dfd-af2f-4ecd-a1eb-30cf38bcaa1e",
     "Amount": 6200,
     "Note": "hajo",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "f6ddca6b-765b-4307-bb19-ed29aa60323e",
     "Amount": 6530,
     "Note": "taxi",
     "Budget": "Fun",
-    "Date": "2026-08-31T08:02:33.5092441+02:00"
+    "Date": "2026-08-31T08:02:33.5092441+02:00",
+    "IsAllocation": false
   },
   {
     "Id": "14adccfa-a0db-4171-b232-03cbaff1bf47",
     "Amount": 12500,
     "Note": "szabszoba",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "cfe07d07-ed12-4c10-b33e-371792e85a7b",
     "Amount": 1290,
     "Note": "vodi\u00E1n",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "a73433ef-8418-4e2b-be6d-2dafbe1b4986",
     "Amount": 11715,
     "Note": "szabszoba",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "33765138-d7e7-4107-9632-06e2b3cbc062",
     "Amount": 785,
     "Note": "aldi",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "7dc5171f-3054-4e3d-8438-3e6b452f6ac8",
     "Amount": 469,
     "Note": "havi csomagd\u00EDj",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "fc2c4f3d-767c-4eb7-87fc-114f3de4ab58",
     "Amount": 170,
     "Note": "id\u0151szakos ktg",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "aaa163c9-13b1-4caa-b5d3-0cf16986e05e",
     "Amount": 475,
     "Note": "bosch reggeli",
     "Budget": "Fun",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
     "Id": "008854e3-3111-4cba-abb1-5cfe20150bb1",
     "Amount": 1038,
     "Note": "bosch eb\u00E9d",
     "Budget": "Living",
-    "Date": "2026-08-31T12:19:43.846"
+    "Date": "2026-08-31T12:19:43.846",
+    "IsAllocation": false
   },
   {
-    "Id": "634f5f61-25b3-483c-84fd-e7072824e2a9",
+    "Id": "9621c261-46f6-48b3-aba3-2f66802fc822",
     "Amount": 100,
     "Note": "teszt",
     "Budget": "Fun",
-    "Date": "2026-09-04T08:13:39.4312296+02:00"
+    "Date": "2026-09-04T09:30:08.2650444+02:00",
+    "IsAllocation": false
   },
   {
-    "Id": "ddfb42bc-225c-400d-ab08-7393b7fc2c9d",
+    "Id": "0c0d9dee-e3e5-4a3e-adbb-c584e41d6714",
     "Amount": 100,
-    "Note": "\u00E1tvezet\u00E9s",
+    "Note": "teszt",
     "Budget": "Living",
-    "Date": "2026-09-04T08:13:39.4312296+02:00"
+    "Date": "2026-09-04T09:30:08.2650444+02:00",
+    "IsAllocation": true
   },
   {
-    "Id": "09daa12c-88b2-4f33-a8d9-f166aff044e1",
+    "Id": "62e43177-1ddf-4f1d-a8ca-fcd4f4d6f365",
     "Amount": -100,
-    "Note": "\u00E1tvezet\u00E9s",
+    "Note": "teszt",
     "Budget": "Savings",
-    "Date": "2026-09-04T08:13:39.4312296+02:00"
+    "Date": "2026-09-04T09:30:08.2650444+02:00",
+    "IsAllocation": true
   }
 ]
