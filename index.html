@@ -80,7 +80,7 @@
         .insight.decrease {
             border-left-color: #20a020;
         }
-        .insight-neutral {
+        .insight.neutral {
             border-left-color: #777;
         }
         .target-container {
@@ -330,7 +330,10 @@ function updateDashboard(year, month) {
             type = "neutral";
         }
 
-        const arrow = i.change > 0 ? "↑" : "↓";
+       const arrow =
+        i.change > 0 ? "↑" :
+        i.change < 0 ? "↓" :
+        "→";
 
         return `
             <div class="insight ${type}">
@@ -385,7 +388,6 @@ function updateDashboard(year, month) {
 
 function calculateForecast(year, month, currentCategories) {
 
-    const selectedDate = new Date(year, month - 1);
     const now = new Date();
 
     let monthProgress = 1;
@@ -423,7 +425,7 @@ function renderTargets() {
             progress = 100;
 
         html += `
-            <div class="goal-container">
+            <div class="target-container">
 
                 <strong>${target.Name}</strong><br>
 
