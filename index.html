@@ -415,10 +415,11 @@ function renderGoals() {
 
     targets.forEach(target => {
 
-        let percent = (goal.Current / goal.Target) * 100;
+        const current = getCurrentSavings(target.Name);
+        const progress = (current / target.Amount) * 100;
 
-        if (percent > 100)
-            percent = 100;
+        if (progress > 100)
+            progress = 100;
 
         html += '
             <div class="goal-container">
@@ -428,7 +429,28 @@ function renderGoals() {
                 ${formatNumber(target.Current)}
                 /
                 ${formatNumber(target.Target)} Ft
+
+                <div class="progress-bar">
+                    <div class="progress-fill"
+                        style="width:${progress}%">
+
+                        ${percent.toFixed(0)}%
+                    </div>
+                </div>
+            </div>
+            ';
     }
+    document.getElementById("goals").innerHTML = html;
+}
+
+function getCurrentSavings(targetName)
+{
+    return expenses
+        .filter(x =>
+            x.Budget === "Savings" &&
+            x.Note === targetName)
+        .reduce((sum, x) =>
+            sum + x.Amount, 0);
 }
 
 function applyFilter() {
