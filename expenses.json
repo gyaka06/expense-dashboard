@@ -2574,5 +2574,13 @@
     "Budget": "Living",
     "Date": "2026-09-08T08:43:44.4724486+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "a8e0ba54-cd7d-48aa-9796-26810469e6b5",
+    "Amount": 12000,
+    "Note": "Niki gy\u0171r\u0171",
+    "Budget": "Savings",
+    "Date": "2026-08-31T09:10:20.612",
+    "IsAllocation": false
   }
 ]
