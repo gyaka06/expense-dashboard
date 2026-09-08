@@ -49,7 +49,7 @@
         #yearSelect {
             margin-left: 10px;
         }
-        .insights-containter {
+        .insights-container {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 12px;
@@ -65,7 +65,7 @@
             font-weight: bold;
             color: #333;
         }
-        .insight.change {
+        .insight-change {
             font-size: 24px;
             font-weight: bold;
             margin: 8px 0;
@@ -191,6 +191,7 @@ Promise.all
     monthSelect.value = now.getMonth() + 1;
     
     updateDashboard(now.getFullYear(), now.getMonth() + 1);
+    renderTargets();
 });
 
 function updateDashboard(year, month) {
@@ -410,37 +411,37 @@ function calculateForecast(year, month, currentCategories) {
     };
 }
 
-function renderGoals() {
-    let htm = "";
+function renderTargets() {
+    let html = "";
 
     targets.forEach(target => {
 
         const current = getCurrentSavings(target.Name);
-        const progress = (current / target.Amount) * 100;
+        let progress = (current / target.Amount) * 100;
 
         if (progress > 100)
             progress = 100;
 
-        html += '
+        html += `
             <div class="goal-container">
 
                 <strong>${target.Name}</strong><br>
 
-                ${formatNumber(target.Current)}
+                ${formatNumber(current)}
                 /
-                ${formatNumber(target.Target)} Ft
+                ${formatNumber(target.Amount)} Ft
 
                 <div class="progress-bar">
                     <div class="progress-fill"
                         style="width:${progress}%">
 
-                        ${percent.toFixed(0)}%
+                        ${progress.toFixed(0)}%
                     </div>
                 </div>
             </div>
-            ';
+            `;
     }
-    document.getElementById("goals").innerHTML = html;
+    document.getElementById("targets").innerHTML = html;
 }
 
 function getCurrentSavings(targetName)
