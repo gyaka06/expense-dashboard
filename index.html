@@ -381,8 +381,6 @@ function updateDashboard(year, month) {
         </p>
     `;
     }
-    //target progress
-    
 
 function calculateForecast(year, month, currentCategories) {
 
@@ -412,6 +410,26 @@ function calculateForecast(year, month, currentCategories) {
     };
 }
 
+function renderGoals() {
+    let htm = "";
+
+    targets.forEach(target => {
+
+        let percent = (goal.Current / goal.Target) * 100;
+
+        if (percent > 100)
+            percent = 100;
+
+        html += '
+            <div class="goal-container">
+
+                <strong>${target.Name}</strong><br>
+
+                ${formatNumber(target.Current)}
+                /
+                ${formatNumber(target.Target)} Ft
+    }
+}
 
 function applyFilter() {
     const year = parseInt(document.getElementById("yearSelect").value);
