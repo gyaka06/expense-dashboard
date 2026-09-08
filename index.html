@@ -213,7 +213,7 @@ function updateDashboard(year, month) {
     expenses.forEach(e => {
         const d = new Date(e.Date);
 
-        if (d.getFullYear() === year && d.getMonth() + 1 === month) {
+        if (d.getFullYear() === year && d.getMonth() + 1 === month && e.IsAllocation === false) {
 
             total += e.Amount;
 
