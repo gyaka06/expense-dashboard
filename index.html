@@ -83,6 +83,24 @@
         .insight-neutral {
             border-left-color: #777;
         }
+        .target-container {
+            margin-bottom: 20px;
+        }
+        .progress-bar {
+        width: 100%;
+        height: 25px;
+        background-color: #A9A9A9;
+        border-radius: 10px;
+        overflow: hidden;
+        }
+        .progress-fill {
+        height: 100%;
+        background-color: #00C851;
+        text-align: right;
+        color: white;
+        font-weight: bold;
+        line-height: 25px;
+        }
     </style>
 </head>
 <body>
@@ -114,6 +132,11 @@
 </div>
 
 <div class="card">
+    <h3>Saving Targets</h3>
+    <div id="targets"></div>
+</div>
+
+<div class="card">
     <h3>Remaining Budget</h3>
     <p>Savings: <span id="savings"></span></p>
     <p>Fun: <span id="fun"></span></p>
@@ -123,6 +146,7 @@
 <script>
 let expenses = [];
 let budgets = [];
+let targets = [];
 let chart = null;
 
 const yearSelect = document.getElementById("yearSelect");
@@ -143,6 +167,7 @@ for (let y = 2025; y <= 2027; y++) {
 
 const expensesUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/expenses.json";
 const budgetsUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/monthlyBudgets.json";
+const targetsUrl = "https://raw.githubusercontent.com/gyaka06/expense-dashboard/refs/heads/main/targets.json";
 
 function formatNumber(num) {
     return new Intl.NumberFormat('hu-HU').format(num);
@@ -151,12 +176,14 @@ function formatNumber(num) {
 Promise.all
 ([
     fetch(expensesUrl).then(res => res.json()),
-    fetch(budgetsUrl).then(res => res.json())
+    fetch(budgetsUrl).then(res => res.json()),
+    fetch(targetsUrl).then(res => res.json())
 ])
-.then(([exp, bud]) => 
+.then(([exp, bud, targetData]) => 
 {
     expenses = exp;
     budgets = bud;
+    targets = targetData;
 
     const now = new Date();
 
@@ -354,6 +381,8 @@ function updateDashboard(year, month) {
         </p>
     `;
     }
+    //target progress
+    
 
 function calculateForecast(year, month, currentCategories) {
 
