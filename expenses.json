@@ -2558,5 +2558,21 @@
     "Budget": "Savings",
     "Date": "2026-08-31T08:09:37.132",
     "IsAllocation": true
+  },
+  {
+    "Id": "b8b771ca-08be-4007-978a-fadc54bfbfc7",
+    "Amount": 474,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-08T08:43:44.4724486+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "2ba213ef-9894-49b5-9c5f-f3eb071528b5",
+    "Amount": 1444,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-08T08:43:44.4724486+02:00",
+    "IsAllocation": false
   }
 ]
