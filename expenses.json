@@ -2576,11 +2576,19 @@
     "IsAllocation": false
   },
   {
-    "Id": "a8e0ba54-cd7d-48aa-9796-26810469e6b5",
-    "Amount": 12000,
-    "Note": "Niki gy\u0171r\u0171",
-    "Budget": "Savings",
-    "Date": "2026-08-31T09:10:20.612",
+    "Id": "00c0355b-c4f6-4552-9c86-3d53591cbddc",
+    "Amount": 200000,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Fun",
+    "Date": "2026-09-14T08:48:52.6850744+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "d4b7aa42-4e56-4f18-aade-9ae38ea618e4",
+    "Amount": 25000,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-09-14T08:48:52.6850744+02:00",
     "IsAllocation": false
   }
 ]
