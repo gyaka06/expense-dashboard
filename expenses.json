@@ -2590,5 +2590,85 @@
     "Budget": "Living",
     "Date": "2026-09-14T08:48:52.6850744+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "009caab4-e050-43b8-8c95-d2e780f54b63",
+    "Amount": 2580,
+    "Note": "spar",
+    "Budget": "Living",
+    "Date": "2026-09-14T14:59:57.2778131+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b538b69d-ff0d-4acc-a427-bf42d94f476f",
+    "Amount": 770,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-14T14:59:57.2778131+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "6ccf2224-40f6-4354-be63-2c11d8c3f5fd",
+    "Amount": 1440,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-14T14:59:57.2778131+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "43afee95-3b2f-468e-9ff3-dcdf5894b27d",
+    "Amount": 1269,
+    "Note": "parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "d1cf11cc-e4f4-471c-b293-068e11b0e8fb",
+    "Amount": 1269,
+    "Note": "parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "9b903e73-148f-44f3-b3da-08a6ae3cdd63",
+    "Amount": 236,
+    "Note": "parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "741605d8-b9bf-4b30-aaf5-fae290f15731",
+    "Amount": 3000,
+    "Note": "yettel",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "d89afb1b-6a59-416f-96f9-34c98c2bfacd",
+    "Amount": 4190,
+    "Note": "leak",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "2f6270fd-d3d5-42a3-9810-e3e8bb738393",
+    "Amount": 6190,
+    "Note": "yt prem",
+    "Budget": "Living",
+    "Date": "2026-09-17T08:18:47.0605539+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "cd6c81f8-dac1-4a20-8aec-9114120287ea",
+    "Amount": 770,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-17T10:25:15.8925998+02:00",
+    "IsAllocation": false
   }
 ]
