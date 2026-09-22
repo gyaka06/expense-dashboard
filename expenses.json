@@ -2670,5 +2670,93 @@
     "Budget": "Living",
     "Date": "2026-09-17T10:25:15.8925998+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "80628a52-e1d2-4ffd-805e-8f54da54e452",
+    "Amount": 1030,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b6f7c7d3-c79f-43ae-ae3e-2f7948f263df",
+    "Amount": 410,
+    "Note": "bosch uzsi",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "558e1301-cc85-4baa-820e-9e0d9fc8f88f",
+    "Amount": 43472,
+    "Note": "kr\u00FAbi",
+    "Budget": "Savings",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "8d45521c-396e-408b-96c2-6cf759b79494",
+    "Amount": 4091,
+    "Note": "telcso",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "cee68534-26c7-4d97-aa11-c0e4c5d5149f",
+    "Amount": 8000,
+    "Note": "fodr\u00E1sz",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "512c6622-58f5-44b4-817a-e019f0770b36",
+    "Amount": 200,
+    "Note": "park",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "d5e183a3-efaa-4ada-abd2-a3af246a0824",
+    "Amount": 1269,
+    "Note": "park",
+    "Budget": "Living",
+    "Date": "2026-09-21T09:43:26.5817655+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "85d29477-0c92-4a70-b791-f88e17bae4c2",
+    "Amount": 1269,
+    "Note": "park",
+    "Budget": "Living",
+    "Date": "2026-09-22T08:20:41.0272449+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "2e43dc17-2701-41cf-80f7-0805a5c7ceab",
+    "Amount": 1269,
+    "Note": "park",
+    "Budget": "Living",
+    "Date": "2026-09-22T08:20:41.0272449+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b04f1391-dcbc-4df7-8618-07897b782887",
+    "Amount": 2469,
+    "Note": "park",
+    "Budget": "Living",
+    "Date": "2026-09-22T08:20:41.0272449+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "3b4c9836-f078-47a8-9817-a07e33d5de10",
+    "Amount": 29830,
+    "Note": "Barack",
+    "Budget": "Savings",
+    "Date": "2026-09-22T08:20:41.0272449+02:00",
+    "IsAllocation": false
   }
 ]
