@@ -2758,5 +2758,133 @@
     "Budget": "Savings",
     "Date": "2026-09-22T08:20:41.0272449+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "353a9143-cb8d-4016-8dfc-76e07d53c1b7",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "2adfdb1e-b4a9-46aa-8e14-ae706126b503",
+    "Amount": 1587,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "91ef3d94-cf5a-401d-8813-e7d441c447ff",
+    "Amount": 900,
+    "Note": "bosch desszert",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "8e9577a8-6c21-4b0f-aad9-baac1bda4e88",
+    "Amount": 7024,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "5b52a91e-99c2-49f9-8c71-6967044088de",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "01574505-3065-4c4c-ad14-7005aa25b58b",
+    "Amount": 1468,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "744047b0-d9b3-4113-bc93-b74fdc35544a",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "aeef63bc-42f4-4f2c-8144-563e9422c791",
+    "Amount": 200,
+    "Note": "pisi",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "162e6362-77e4-4093-949c-a5a76102d7d1",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "64ea8e67-c9f9-4a19-b0ba-86c237b4987e",
+    "Amount": 4454,
+    "Note": "billa",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "17768cb9-863f-4a12-9af2-040be0ff5bf3",
+    "Amount": 308,
+    "Note": "pisi",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "4906e3b4-2789-4000-96bd-1a0a60ea9b76",
+    "Amount": 1225,
+    "Note": "billa",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "50b31549-0eb0-46fe-9bc4-08088c9e8587",
+    "Amount": 300,
+    "Note": "pisi",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "6dcc8d6f-74a3-4c84-98c7-a525de7d7699",
+    "Amount": 600,
+    "Note": "wikipedia",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "fe60a687-5ed9-4473-a756-0f07fc86c51f",
+    "Amount": 1650,
+    "Note": "\u00FCdit\u0151k",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "e4fb8402-551e-45b9-9349-ba855f1079ee",
+    "Amount": 1485,
+    "Note": "s\u00F6r\u00F6k",
+    "Budget": "Living",
+    "Date": "2026-09-28T09:38:56.0784167+02:00",
+    "IsAllocation": false
   }
 ]
