@@ -2886,5 +2886,133 @@
     "Budget": "Living",
     "Date": "2026-09-28T09:38:56.0784167+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "ace6600d-1ef5-4016-ba56-840beb72693d",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-29T08:14:47.529",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b0e71903-74c6-43ad-ad70-f7163ad78c27",
+    "Amount": 1420,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-29T08:14:47.529",
+    "IsAllocation": false
+  },
+  {
+    "Id": "a9f86c4a-43b4-4ee2-9e54-e46c9ae08fa6",
+    "Amount": 469,
+    "Note": "csomagd\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-09-29T08:14:47.529",
+    "IsAllocation": false
+  },
+  {
+    "Id": "c58ad053-2c8e-487b-a136-cb5dc7408bf2",
+    "Amount": 168,
+    "Note": "id\u0151szakos k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-09-29T08:14:47.529",
+    "IsAllocation": false
+  },
+  {
+    "Id": "6314623c-e2b6-41e5-9bc0-b56b8435238b",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "cd7ada80-d963-4756-a396-a6f69e707193",
+    "Amount": 1014,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "9b50e2d0-5d41-4c91-9a29-a49789a3a3c3",
+    "Amount": 1290,
+    "Note": "vodi\u00E1n",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "094dec90-1833-49a6-a27d-9a47e8441ad5",
+    "Amount": 340,
+    "Note": " parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "4c228230-3622-4603-bde8-5d3bad5fa113",
+    "Amount": 1200,
+    "Note": "kocsi mos\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "cb52a6a9-ee66-4b3a-bc0e-0cf14968d341",
+    "Amount": 8867,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b0bb904d-cc62-4320-99b5-a608c6c8aae1",
+    "Amount": 13822,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-05T09:26:48.0045889+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "381893f4-88fc-4509-a02e-85081ea26635",
+    "Amount": 750,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:29:20.262",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b6cbd7da-4167-4bf0-b470-9d55b90d9124",
+    "Amount": 1980,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:29:20.262",
+    "IsAllocation": false
+  },
+  {
+    "Id": "043c5ea7-48ba-4074-ba89-694b2f8a3e81",
+    "Amount": 4770,
+    "Note": "taxi",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:29:20.262",
+    "IsAllocation": false
+  },
+  {
+    "Id": "84e2b670-fd3d-4eb6-8492-d714bcf44c23",
+    "Amount": 840,
+    "Note": "\u00FCzenetd\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:29:20.262",
+    "IsAllocation": false
+  },
+  {
+    "Id": "75b6c3b0-d8a5-4668-b275-0704d1476f9a",
+    "Amount": 1269,
+    "Note": "parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:29:20.262",
+    "IsAllocation": false
   }
 ]
