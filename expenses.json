@@ -3014,5 +3014,69 @@
     "Budget": "Living",
     "Date": "2026-09-30T09:29:20.262",
     "IsAllocation": false
+  },
+  {
+    "Id": "c3ecf61e-a5e9-4e7e-a360-846403afa422",
+    "Amount": 660,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "0af361f4-ecc4-4179-92d6-6ff9a80a3c96",
+    "Amount": 1928,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "5e7fdc98-0b86-46d9-8e9c-fc7776cd5e77",
+    "Amount": 410,
+    "Note": "bosch desszert",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b27a94ad-a5f7-490e-9b66-ce6338c6fea2",
+    "Amount": 700,
+    "Note": "foci ital",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "bba5c048-eb6f-4caa-a607-b6f460531089",
+    "Amount": 2400,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b395f337-2f4b-4cef-93ee-6b0c856e38cb",
+    "Amount": 2000,
+    "Note": "h\u00E9tker",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "0ca5f7ff-daaf-4862-89c1-26de9ec26fe6",
+    "Amount": 4730,
+    "Note": "taxi",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
+  },
+  {
+    "Id": "059b5bf9-0ff5-408d-a53d-3d7bf289eb3b",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-09-30T09:08:28.703",
+    "IsAllocation": false
   }
 ]
