@@ -3078,5 +3078,77 @@
     "Budget": "Living",
     "Date": "2026-09-30T09:08:28.703",
     "IsAllocation": false
+  },
+  {
+    "Id": "48d2117c-4830-4102-bad4-3c22787d54f9",
+    "Amount": 174698,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Savings",
+    "Date": "2026-09-30T11:10:37.89",
+    "IsAllocation": false
+  },
+  {
+    "Id": "03c39b4d-1920-4155-8721-7a20fd4d2e87",
+    "Amount": 56060,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-09-30T11:10:37.89",
+    "IsAllocation": false
+  },
+  {
+    "Id": "86d7133a-cce7-4e6e-a927-f29a7d7c853c",
+    "Amount": 19897,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Living",
+    "Date": "2026-10-09T11:13:31.1983867+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "b0a1a7cb-4e14-4ee2-a2b6-e7266f97cc0a",
+    "Amount": 10780,
+    "Note": "alpha zoo",
+    "Budget": "Fun",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "093c5f4e-0e81-40b5-8556-43df8a62555c",
+    "Amount": 282,
+    "Note": "simple parkol\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "7d7fa248-d4cf-4ab9-a89f-469cb530caf1",
+    "Amount": 13900,
+    "Note": "bajack kontroll",
+    "Budget": "Fun",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "8518234b-1930-4828-a0d9-2a1ca11a1e16",
+    "Amount": 3800,
+    "Note": "mozi",
+    "Budget": "Fun",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "823d120f-6208-427f-9cb2-245f17b1d79b",
+    "Amount": 1200,
+    "Note": "k\u00E1vg\u00E9p gari",
+    "Budget": "Fun",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
+  },
+  {
+    "Id": "be2d67f6-d38a-4b15-9ef5-7c7046aa20c1",
+    "Amount": 3604,
+    "Note": "tesco",
+    "Budget": "Fun",
+    "Date": "2026-10-12T08:06:10.672434+02:00",
+    "IsAllocation": false
   }
 ]
