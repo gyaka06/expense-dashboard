@@ -3214,5 +3214,13 @@
     "Budget": "Fun",
     "Date": "2026-10-19T09:48:03.624",
     "IsAllocation": false
+  },
+  {
+    "Id": "bc91413c-66e6-4ded-bf33-4cbff15a7a18",
+    "Amount": 36000,
+    "Note": "k\u00F6z\u00F6s k\u00F6lts\u00E9gek",
+    "Budget": "Fun",
+    "Date": "2026-10-19T11:26:04.2371734+02:00",
+    "IsAllocation": false
   }
 ]
