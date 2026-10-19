@@ -3150,5 +3150,69 @@
     "Budget": "Fun",
     "Date": "2026-10-12T08:06:10.672434+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "2a997957-6435-4728-b17b-b54f0b49064d",
+    "Amount": 2075,
+    "Note": "tesco",
+    "Budget": "Living",
+    "Date": "2026-10-12T09:23:07.486",
+    "IsAllocation": false
+  },
+  {
+    "Id": "5a83c12c-9741-4a51-bc8d-6e8cd24874a7",
+    "Amount": 3190,
+    "Note": "netflix",
+    "Budget": "Fun",
+    "Date": "2026-10-14T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "14acdffa-3774-40f5-aed1-d24812b8d71a",
+    "Amount": 4190,
+    "Note": "leak",
+    "Budget": "Fun",
+    "Date": "2026-10-15T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "eacf2407-bc1d-4458-83a9-67b66f7c0440",
+    "Amount": 4991,
+    "Note": "telosz\u00E1mla",
+    "Budget": "Fun",
+    "Date": "2026-10-16T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "6a3aef8c-f4b4-4740-b8a6-37a296c97326",
+    "Amount": 3800,
+    "Note": "l\u00E1ngos",
+    "Budget": "Fun",
+    "Date": "2026-10-16T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "f45d0342-3aa1-4d3f-b113-53810386e177",
+    "Amount": 6990,
+    "Note": "yt prem",
+    "Budget": "Fun",
+    "Date": "2026-10-16T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "898dc6fc-17be-4702-9618-a9d8121c47bc",
+    "Amount": 2990,
+    "Note": "disney plus",
+    "Budget": "Fun",
+    "Date": "2026-10-17T09:48:03.624",
+    "IsAllocation": false
+  },
+  {
+    "Id": "d44b7bdc-ab2e-4a70-a6cf-52f7c623444d",
+    "Amount": 8342,
+    "Note": "anika telo",
+    "Budget": "Fun",
+    "Date": "2026-10-19T09:48:03.624",
+    "IsAllocation": false
   }
 ]
