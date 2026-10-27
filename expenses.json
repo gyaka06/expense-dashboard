@@ -3222,5 +3222,125 @@
     "Budget": "Fun",
     "Date": "2026-10-19T11:26:04.2371734+02:00",
     "IsAllocation": false
+  },
+  {
+    "Id": "c1a563ac-18e3-4f9b-937b-aafad2909aff",
+    "Amount": 1276,
+    "Note": "bosch kaja",
+    "Budget": "Living",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "677ebe99-8ebb-487b-93ec-2996732b7c13",
+    "Amount": 600,
+    "Note": "wiki",
+    "Budget": "Fun",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "ffe5bd9a-2729-4b43-b4de-4acdd4a53d9f",
+    "Amount": 985,
+    "Note": "bosch kaja",
+    "Budget": "Living",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "630bedbd-7488-4e5e-bb0d-503676773ab7",
+    "Amount": 1406,
+    "Note": "bosch kaja",
+    "Budget": "Living",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "5095c09d-61ef-41e9-9010-6c7b17fe9c44",
+    "Amount": 890,
+    "Note": "bosch kaja",
+    "Budget": "Living",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "0e9c738f-379d-4d8b-9be5-0af6b895f51a",
+    "Amount": 1009,
+    "Note": "tesco",
+    "Budget": "Fun",
+    "Date": "2026-10-20T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "85daa97b-f6e3-4c56-9fc0-b79568b9042e",
+    "Amount": 9100,
+    "Note": "primark",
+    "Budget": "Living",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "9bf729e5-5dd7-4742-bc54-295de01296af",
+    "Amount": 3899,
+    "Note": "dohi",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "1a818f0e-5c70-456f-830c-588ad5b8746e",
+    "Amount": 6163,
+    "Note": "h\u00E9tker",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "99ec91c3-2665-4ce9-8591-2c73b1490423",
+    "Amount": 1500,
+    "Note": "taxi elbasz\u00E1s",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "02e6dc0d-f895-4562-b703-fc75526fdb1d",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "c61154c6-9ea2-4aac-b4a3-18b0f1a559ae",
+    "Amount": 9990,
+    "Note": "zsart",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "4eeb50ff-5f69-4966-927a-410c24d0a0d7",
+    "Amount": 399,
+    "Note": "apple cloud",
+    "Budget": "Fun",
+    "Date": "2026-10-21T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "9953b89f-ec58-4cce-ad7c-0f1ce4ff3165",
+    "Amount": 4669,
+    "Note": "alpha zoo",
+    "Budget": "Fun",
+    "Date": "2026-10-25T08:10:56.03",
+    "IsAllocation": false
+  },
+  {
+    "Id": "0716756b-ba1f-4726-92fd-35540769ca44",
+    "Amount": 4474,
+    "Note": "\u00E9rt\u00E9kpap\u00EDr szla d\u00EDj",
+    "Budget": "Fun",
+    "Date": "2026-10-25T08:10:56.03",
+    "IsAllocation": false
   }
 ]
