@@ -3342,5 +3342,45 @@
     "Budget": "Fun",
     "Date": "2026-10-25T08:10:56.03",
     "IsAllocation": false
+  },
+  {
+    "Id": "5b9f6f8a-df48-4bb9-a03d-c24d1c65a494",
+    "Amount": 6000,
+    "Note": "telo",
+    "Budget": "Fun",
+    "Date": "2026-10-27T08:01:34.686",
+    "IsAllocation": false
+  },
+  {
+    "Id": "63d9f6da-b2ae-4642-9f57-15872f328f59",
+    "Amount": 475,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-10-27T08:01:34.686",
+    "IsAllocation": false
+  },
+  {
+    "Id": "abf1be8e-38d2-4c5e-af79-b7785b6b9199",
+    "Amount": 1563,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-10-27T08:01:34.686",
+    "IsAllocation": false
+  },
+  {
+    "Id": "0723d005-5bf2-42fe-ad18-83e4c6d27626",
+    "Amount": 735,
+    "Note": "bosch desszert",
+    "Budget": "Living",
+    "Date": "2026-10-27T08:01:34.686",
+    "IsAllocation": false
+  },
+  {
+    "Id": "71286a16-be8a-4ec9-8c85-4cfe322e9ade",
+    "Amount": 8000,
+    "Note": "fodr\u00E1sz",
+    "Budget": "Fun",
+    "Date": "2026-10-27T08:01:34.686",
+    "IsAllocation": false
   }
 ]
