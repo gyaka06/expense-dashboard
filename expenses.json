@@ -3446,5 +3446,37 @@
     "Budget": "Living",
     "Date": "2026-10-29T09:40:33.203",
     "IsAllocation": false
+  },
+  {
+    "Id": "4430a7b1-9a8c-4450-b771-f93e8053ed94",
+    "Amount": 2190,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-10-29T08:06:24.717",
+    "IsAllocation": false
+  },
+  {
+    "Id": "31994fa4-f34e-413f-b55a-696ffe3ea9b2",
+    "Amount": 5513,
+    "Note": "aldi",
+    "Budget": "Living",
+    "Date": "2026-10-29T08:06:24.717",
+    "IsAllocation": false
+  },
+  {
+    "Id": "a0229c0c-3ccf-4932-9114-84e75685fcd1",
+    "Amount": 450,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-10-29T08:06:24.717",
+    "IsAllocation": false
+  },
+  {
+    "Id": "8dfbf99e-0712-4418-a078-3bfe3184f5d1",
+    "Amount": 13775,
+    "Note": "Niki gy\u0171r\u0171",
+    "Budget": "Fun",
+    "Date": "2026-10-29T08:06:24.717",
+    "IsAllocation": false
   }
 ]
