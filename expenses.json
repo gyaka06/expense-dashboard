@@ -3478,5 +3478,69 @@
     "Budget": "Fun",
     "Date": "2026-10-29T08:06:24.717",
     "IsAllocation": false
+  },
+  {
+    "Id": "f0d8b009-f5a4-44f4-b0ed-fb169da837b9",
+    "Amount": 1516,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": false
+  },
+  {
+    "Id": "4588171f-0b5b-4f35-9447-359abfac6f0b",
+    "Amount": 2100,
+    "Note": "sekiz",
+    "Budget": "Living",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": false
+  },
+  {
+    "Id": "4a4ac25f-32cd-42e1-8173-193d9c794f51",
+    "Amount": 1344,
+    "Note": "otp \u00FCzenetd\u00EDj",
+    "Budget": "Living",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": false
+  },
+  {
+    "Id": "5e57ec11-b06d-4cbe-9c48-8bd5df4f08ea",
+    "Amount": 17375,
+    "Note": "barack \u00FAj hely",
+    "Budget": "Fun",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": false
+  },
+  {
+    "Id": "3188c97a-1fe4-4012-b84f-2e522bc198eb",
+    "Amount": 907,
+    "Note": "steam",
+    "Budget": "Fun",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": false
+  },
+  {
+    "Id": "6f8c88f8-3390-4903-8716-d1e1d5a320a7",
+    "Amount": 14587,
+    "Note": "megtakar\u00EDt\u00E1s",
+    "Budget": "Fun",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": true
+  },
+  {
+    "Id": "be97a749-b188-401c-8fad-3178921d977b",
+    "Amount": 136289,
+    "Note": "megtakar\u00EDt\u00E1s",
+    "Budget": "Living",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": true
+  },
+  {
+    "Id": "1d7deab9-bbba-4395-90fd-d02b96b5bb07",
+    "Amount": -150876,
+    "Note": "megtakar\u00EDt\u00E1s",
+    "Budget": "Savings",
+    "Date": "2026-10-29T10:53:58.811",
+    "IsAllocation": true
   }
 ]
