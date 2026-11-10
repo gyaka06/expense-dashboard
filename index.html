@@ -221,7 +221,7 @@ function updateDashboard(year, month) {
                     allocationAmounts[e.Budget] = 0;
                 }
     
-                allocationAmounts[e.Budget] += Math.abs(e.Amount);
+                allocationAmounts[e.Budget] += e.Amount;
             }
     
             if (e.IsAllocation === false) {
@@ -261,8 +261,9 @@ function updateDashboard(year, month) {
 
     // previousMonth
     if (d.getFullYear() === previousYear &&
-        d.getMonth() + 1 === previousMonth) {
-
+        d.getMonth() + 1 === previousMonth &&
+        e.IsAllocation == false) 
+    {
         if (!previousCategories[e.Budget])
             previousCategories[e.Budget] = 0;
 
