@@ -201,6 +201,7 @@ function updateDashboard(year, month) {
     let allCategories = {};
     let currentCategories = {};
     let previousCategories = {};
+    let allocationAmounts = {};
 
     let previousMonth = month - 1;
     let previousYear = year;
@@ -212,23 +213,34 @@ function updateDashboard(year, month) {
 
     expenses.forEach(e => {
         const d = new Date(e.Date);
-
-        if (d.getFullYear() === year && d.getMonth() + 1 === month && e.IsAllocation === false) {
-
-            total += e.Amount;
-
-            if (!allCategories[e.Budget]) {
-                allCategories[e.Budget] = 0;
-            }
-
-            allCategories[e.Budget] += e.Amount;
-
-            if (e.Amount > 0 && e.IsAllocation === false ) {
-                if (!categories[e.Budget]) {
-                    categories[e.Budget] = 0;
+    
+        if (d.getFullYear() === year && d.getMonth() + 1 === month) {
+    
+            if (e.IsAllocation === true) {
+                if (!allocationAmounts[e.Budget]) {
+                    allocationAmounts[e.Budget] = 0;
                 }
-
-                categories[e.Budget] += e.Amount;
+    
+                allocationAmounts[e.Budget] += Math.abs(e.Amount);
+            }
+    
+            if (e.IsAllocation === false) {
+    
+                total += e.Amount;
+    
+                if (!allCategories[e.Budget]) {
+                    allCategories[e.Budget] = 0;
+                }
+    
+                allCategories[e.Budget] += e.Amount;
+    
+                if (e.Amount > 0) {
+                    if (!categories[e.Budget]) {
+                        categories[e.Budget] = 0;
+                    }
+    
+                    categories[e.Budget] += e.Amount;
+                }
             }
         }
     });
@@ -284,18 +296,25 @@ function updateDashboard(year, month) {
 
     if (currentBudget) {
         document.getElementById("savings").innerText =
-            formatNumber(currentBudget.SavingsBudget - (allCategories["Savings"] || 0));
-
+            formatNumber(
+                currentBudget.SavingsBudget -
+                (allCategories["Savings"] || 0) -
+                (allocationAmounts["Savings"] || 0)
+            );
+    
         document.getElementById("fun").innerText =
-            formatNumber(currentBudget.FunBudget - (allCategories["Fun"] || 0));
-
+            formatNumber(
+                currentBudget.FunBudget -
+                (allCategories["Fun"] || 0) -
+                (allocationAmounts["Fun"] || 0)
+            );
+    
         document.getElementById("living").innerText =
-            formatNumber(currentBudget.LivingBudget - (allCategories["Living"] || 0));
-    }
-    else {
-        document.getElementById("savings").innerText = "-";
-        document.getElementById("fun").innerText = "-";
-        document.getElementById("living").innerText = "-";
+            formatNumber(
+                currentBudget.LivingBudget -
+                (allCategories["Living"] || 0) -
+                (allocationAmounts["Living"] || 0)
+            );
     }
 
     const ctx = document.getElementById('chart');
