@@ -117,6 +117,11 @@
 </div>
 
 <div class="card">
+    <h3>Annual Savings</h3>
+    <p class="total-value" id="annualSavings"></p>
+</div>
+
+<div class="card">
     <h3>Spending by Budget</h3>
     <canvas id="chart"></canvas>
 </div>
@@ -290,6 +295,23 @@ function updateDashboard(year, month) {
     });
 
     document.getElementById("total").innerText = formatNumber(total);
+
+    // Annual Savings
+    const annualSavings = expenses
+    .filter(e => {
+        const d = new Date(e.Date);
+
+        return d.getFullYear() === year &&
+               e.Budget === "Savings";
+    })
+    .reduce((sum, e) => {
+        const amount = Number(e.Amount) || 0;
+
+        return sum + (e.IsAllocation === true ? -amount : amount);
+    }, 0);
+
+    document.getElementById("annualSavings").innerText =
+    formatNumber(annualSavings) + " Ft";    
 
     const currentBudget = budgets.find(b =>
         b.Month === month && b.Year === year
