@@ -3542,5 +3542,29 @@
     "Budget": "Savings",
     "Date": "2026-10-29T10:53:58.811",
     "IsAllocation": true
+  },
+  {
+    "Id": "52215f3d-b29c-4cd6-97d7-ca19cdee12e0",
+    "Amount": 900,
+    "Note": "bosch reggeli",
+    "Budget": "Living",
+    "Date": "2026-11-10T08:11:32.843",
+    "IsAllocation": false
+  },
+  {
+    "Id": "be58ab2c-c41d-44e8-9b15-4507a0b4d3ec",
+    "Amount": 1200,
+    "Note": "k\u00E1v\u00E9g\u00E9p gari",
+    "Budget": "Fun",
+    "Date": "2026-11-10T08:11:32.843",
+    "IsAllocation": false
+  },
+  {
+    "Id": "ca58bb01-11cf-4fa2-84ac-ee53b374067d",
+    "Amount": 1599,
+    "Note": "bosch eb\u00E9d",
+    "Budget": "Living",
+    "Date": "2026-11-10T08:11:32.843",
+    "IsAllocation": false
   }
 ]
